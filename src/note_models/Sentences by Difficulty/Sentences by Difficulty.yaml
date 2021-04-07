@@ -1,0 +1,28 @@
+name: Sentences by Difficulty
+id: 960eef9c-bc52-11e9-90ba-d8cb8ac9abf0
+css_file: src/note_models/Sentences by Difficulty/style.css
+latex_pre: "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\
+  \\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\
+  \\begin{document}\n"
+fields:
+- name: sentence
+  font: Arial
+- name: translation
+  font: Arial
+- name: freq ranks
+  font: Arial
+- name: audio
+  font: Arial
+templates:
+- name: Card 1
+  html_file: src/note_models/Sentences by Difficulty/Card 1.html
+- name: Card 2
+  html_file: src/note_models/Sentences by Difficulty/Card 2.html
+required_fields_per_template:
+- - 0
+  - any
+  - - 0
+    - 3
+- - 1
+  - all
+  - - 1
