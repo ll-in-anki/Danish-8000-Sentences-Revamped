@@ -1,0 +1,27 @@
+- build_parts:
+  - headers_from_crowd_anki:
+      part_id: deck_headers
+      source: build/Danish_8000_Sentences_Revamped/
+  - notes_from_crowd_anki:
+      part_id: deck_notes
+      source: build/Danish_8000_Sentences_Revamped/
+  - note_models_all_from_crowd_anki:
+      source: build/Danish_8000_Sentences_Revamped/
+  - media_group_from_crowd_anki:
+      part_id: deck_media
+      source: build/Danish_8000_Sentences_Revamped/
+      recursive: true
+- save_media_groups_to_folder:
+    parts:
+    - deck_media
+    folder: src/media/
+    clear_folder: true
+    recursive: true
+- generate_csvs:
+    notes: deck_notes
+    file_mappings:
+    - file: src/data/Sentences by Difficulty.csv
+      note_model: Sentences by Difficulty
+    note_model_mappings:
+    - note_models:
+      - Sentences by Difficulty

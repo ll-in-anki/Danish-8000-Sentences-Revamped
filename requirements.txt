@@ -1,0 +1,5 @@
+Brain-Brew==0.3.4
+PyYAML==5.4.1
+ruamel.yaml==0.17.2
+ruamel.yaml.clib==0.2.2
+yamale==3.0.4
