@@ -56,7 +56,7 @@ q{qJuh~OHh,Jeg ved hvad Tom taler om.,I know what Tom is talking about.,[ 11 26 
 ggU]o)pK.),Tom taler fransk.,Tom speaks French.,[ 80 49 100 ], [sound:googletts-31a953bb-f818a606-d9e68c4c-b69a4d8b-205f12c7.mp3],CardType::Sentence
 iMNzjTP`Yn,"Det er hans, er det ikke?","It's his, isn't it?",[ 12 1 72 1 12 5 ], [sound:googletts-32eb1139-a5fe4c12-78ad8ed8-6d30ea96-ceacc144.mp3],CardType::Sentence
 LiA[u$1n`:,Vi taler alle fransk.,We all speak French.,[ 46 49 70 100 ], [sound:googletts-276c1a79-2bf107c3-ef087a51-f613738d-2fbb85ef.mp3],CardType::Sentence
-et@rywi*xr,Hvad tog tager du?,What train you are going to take?,[ 38 55 66 7 ], [sound:googletts-425f2a17-145edb97-18c21fa1-0d221a92-5cb6968e.mp3],CardType::Sentence
+et@rywi*xr,Hvad tog tager du?,What train are you taking?,[ 38 55 66 7 ], [sound:googletts-425f2a17-145edb97-18c21fa1-0d221a92-5cb6968e.mp3],CardType::Sentence
 nkt=K-GtN|,Alle skulle lære fransk.,Everyone had to learn French.,[ 70 125 121 100 ], [sound:googletts-7ed08758-ecded7fa-7e5908f2-5384bddd-064ed5fb.mp3],CardType::Sentence
 Lsk=[]<KjB,"Er det det du vil, Tom?","Is that what you want, Tom?",[ 1 12 12 7 20 80 ], [sound:googletts-8b19d48a-9c6f1b97-41ebbd2a-62b3802a-1e638087.mp3],CardType::Sentence
 k2Vrlari|=,Tom spiser.,Tom's eating.,[ 80 119 ], [sound:googletts-c0159d58-8f3c3901-e82e466f-e5c79738-325c5a8a.mp3],CardType::Sentence
@@ -128,7 +128,7 @@ kF_Q2ufZF:,Det er alt hvad jeg ved.,That's all I know.,[ 12 1 118 38 11 26 ], [s
 IY^qG044&h,Jeg elsker dig mere end jeg elsker hende.,I love you more than I love her.,[ 11 57 31 120 34 11 57 91 ], [sound:googletts-2ae0501b-538c09ae-18995087-c8c9913c-3ba983d7.mp3],CardType::Sentence
 pkfWUcbZ?N,Er dette godt fransk?,Is this good French?,[ 1 63 78 100 ], [sound:googletts-51d1d30e-6270d9ba-a9dff214-920804ad-99abf873.mp3],CardType::Sentence
 MEBR$<#P?},Jeg så hvad du gjorde.,I saw what you did.,[ 11 21 38 7 112 ], [sound:googletts-f227dbf7-237822a1-d0a48379-e1b34797-1315f649.mp3],CardType::Sentence
-Dnv(kkhAa.,Jeg kan lide at tale fransk.,I like speaking in French.,[ 11 13 33 3 64 100 ], [sound:googletts-69198854-31a95bfe-4d344d79-58971082-ae58dd02.mp3],CardType::Sentence
+Dnv(kkhAa.,Jeg kan lide at tale fransk.,I like to speak French.,[ 11 13 33 3 64 100 ], [sound:googletts-69198854-31a95bfe-4d344d79-58971082-ae58dd02.mp3],CardType::Sentence
 "x!<unH,:5Q","Du kan tale fransk, kan du ikke?","You can speak French, can't you?",[ 7 13 64 100 13 7 5 ], [sound:googletts-38334008-0c2506e0-2c78509e-bf760341-33c9e925.mp3],CardType::Sentence
 CVTsIyKj8k,Tom taler ikke meget fransk.,Tom doesn't speak much French.,[ 80 49 5 29 100 ], [sound:googletts-86fe1ea2-4077aebc-b853bd7e-95d993d8-2f601804.mp3],CardType::Sentence
 uMZr+ffDXM,Jeg kommer.,I am coming.,[ 11 71 ], [sound:googletts-8b2ebdc0-005cebd5-41e93011-caae211a-1e9c15fc.mp3],CardType::Sentence
@@ -314,12 +314,12 @@ JZ1BBPfPLm,Må jeg?,May I?,[ 102 11 ], [sound:googletts-bc3c06c7-ca387d36-b75ff8
 yv~]SrSBTm,Jeg så din far.,I saw your father.,[ 11 21 30 142 ], [sound:googletts-12198a97-ac04df76-5ff7e2e5-2db47e40-2aae3b43.mp3],CardType::Sentence
 u{|TgK/>e.,Alle hader ham.,Everybody hates him.,[ 70 161 47 ], [sound:googletts-7e6e84c4-3520198c-095f216a-0428133c-124eafb6.mp3],CardType::Sentence
 q&i5Qp]lS7,Jeg kan ikke sige det til min far.,I can't say that to my dad.,[ 11 13 5 126 12 8 25 142 ], [sound:googletts-dc871c8d-6edafb1a-436a4d74-58b14984-9cff62f5.mp3],CardType::Sentence
-Py>(7QPWxH,Hvad vil du være når du bliver stor?,What will you do when you grow up?,[ 38 20 7 40 139 7 86 135 ], [sound:googletts-76fa6bd7-2a9fd494-eff02bf3-c82e993b-4530afee.mp3],CardType::Sentence
+Py>(7QPWxH,Hvad vil du være når du bliver stor?,What do you want to be when you grow up?,[ 38 20 7 40 139 7 86 135 ], [sound:googletts-76fa6bd7-2a9fd494-eff02bf3-c82e993b-4530afee.mp3],CardType::Sentence
 i3_[hUAm~%,Jeg er en hund.,I'm a dog.,[ 11 1 2 127 ], [sound:googletts-b19f0f99-2eb64442-eb06265c-061270e0-96d3976c.mp3],CardType::Sentence
 B`WG$j<An+,Tom ønskede at Mary skulle lære fransk.,Tom wanted Mary to learn French.,[ 80 229 3 75 125 121 100 ], [sound:googletts-e21fe9ea-eceb7f93-b8364728-2c30896d-937c9bcb.mp3],CardType::Sentence
 G/&z[.O<dv,Hvad er klokken?,What time is it?,[ 38 1 123 ], [sound:googletts-31f4fd2f-f8a92b1c-586c79b9-9919686a-93cce791.mp3],CardType::Sentence
 g^^Nytceu5,"Det er bedre, er det ikke?","That's better, isn't it?",[ 12 1 172 1 12 5 ], [sound:googletts-70d37e7c-42abad2b-9934ea07-67925f78-d627297d.mp3],CardType::Sentence
-Rf%bi!e0;k,Hvad ville du gøre hvis du var ham?,What would you do in his position?,[ 38 65 7 115 185 7 18 47 ], [sound:googletts-7d5c103d-b5a8b17d-f5437eb6-bc6a2fd8-2c49ab90.mp3],CardType::Sentence
+Rf%bi!e0;k,Hvad ville du gøre hvis du var ham?,What would you do if you were him?,[ 38 65 7 115 185 7 18 47 ], [sound:googletts-7d5c103d-b5a8b17d-f5437eb6-bc6a2fd8-2c49ab90.mp3],CardType::Sentence
 k0{~VS^2=`,Tom kan ikke hjælpe dig.,Tom can't help you.,[ 80 13 5 145 31 ], [sound:googletts-ee58c9f1-fc45f690-ca8dc084-79f9f8eb-758a346a.mp3],CardType::Sentence
 "m~8!w,&Q%%",Hun havde intet med det at gøre.,She had nothing to do with it.,[ 39 60 162 17 12 3 115 ], [sound:googletts-f39bc9da-958e7065-7be291cc-2f9b3f7e-e0d09d88.mp3],CardType::Sentence
 dL&56+F%2F,Hvor gammel er denne hund?,How old is this dog?,[ 93 150 1 52 127 ], [sound:googletts-9882b945-636ccb11-9aa3dcee-bd9c0386-d82598bb.mp3],CardType::Sentence
@@ -395,7 +395,7 @@ z+_YA]xd:2,Det var ikke første gang.,It wasn’t the first time.,[ 12 18 5 129 
 w5~!e.|Qvc,Der var så mange mennesker.,There were so many people.,[ 28 18 21 51 194 ], [sound:googletts-613ce7c0-4d53f326-d58d819b-1a6aaa3d-89a81753.mp3],CardType::Sentence
 "egGYKTus,U",Jeg har ingen bil mere.,I don't have a car anymore.,[ 11 6 83 152 120 ], [sound:googletts-6f48016c-b6dcbc7a-2f07de0f-c7cea17e-1a96334f.mp3],CardType::Sentence
 B$&_=_N!h4,Hun talte som om hun var min mor.,She talked as if she were my mother.,[ 39 222 27 22 39 18 25 116 ], [sound:googletts-1d334837-0f7ad0f4-60f4b2b5-51c6ee58-f55f34a2.mp3],CardType::Sentence
-fl-Su$L4NH,Han er tre år ældre end hende.,He is older than she is by three years.,[ 23 1 103 92 223 34 91 ], [sound:googletts-8a9c8c26-a4fbf7f5-6739c169-33992dec-e49e7772.mp3],CardType::Sentence
+fl-Su$L4NH,Han er tre år ældre end hende.,He is three years older than her.,[ 23 1 103 92 223 34 91 ], [sound:googletts-8a9c8c26-a4fbf7f5-6739c169-33992dec-e49e7772.mp3],CardType::Sentence
 pHI7f6j%Pl,Han gav hende en bog.,He gave her a book.,[ 23 137 91 2 140 ], [sound:googletts-483504c6-5c08f876-8954dd65-0790fc2a-78dab5e5.mp3],CardType::Sentence
 Ik+&*_]:kn,Tom ved ikke hvor Mary gik hen.,Tom doesn't know where Mary went.,[ 80 26 5 93 75 134 237 ], [sound:googletts-b38fef5f-48292814-a278fa22-f362ad0c-bd4f7076.mp3],CardType::Sentence
 QR8~O<#^Oh,Jeg er en mand.,I am a man.,[ 11 1 2 146 ], [sound:googletts-b3a5e35e-17417569-91709916-2fecd8d7-73a75794.mp3],CardType::Sentence
@@ -408,7 +408,7 @@ b1(t>=-425,Hvor mange gange skal jeg sige det?,How many times do I have to say t
 i3/1y@M_Qn,Jeg går på arbejde hver dag.,I go to work every day.,[ 11 43 9 210 88 87 ], [sound:googletts-e9eaa3e3-a433aa37-b8f28972-3af7505d-d9568cde.mp3],CardType::Sentence
 nL6^(?9j~T,Købte du den bog?,Did you buy that book?,[ 106 7 24 140 ], [sound:googletts-5244acb8-575f0b55-329c0605-642b505e-b175a460.mp3],CardType::Sentence
 q}uLl3g`.&,Jeg vidste det var dig.,I knew it was you.,[ 11 186 12 18 31 ], [sound:googletts-b6dcf1d5-4bee3f2d-ad7b046a-6e312a1d-a59fae55.mp3],CardType::Sentence
-J^x375gN^+,"Jeg vidste ikke hvad jeg skulle sige, så jeg sagde ingen ting.","Not knowing what to answer, I kept silent.",[ 11 186 5 38 11 125 126 21 11 104 83 ], [sound:googletts-ee395edb-36a853b7-fa4898dd-2be59394-eaca9157.mp3],CardType::Sentence
+J^x375gN^+,"Jeg vidste ikke hvad jeg skulle sige, så jeg sagde ingen ting.","I didn't know what to say, so I said nothing.",[ 11 186 5 38 11 125 126 21 11 104 83 ], [sound:googletts-ee395edb-36a853b7-fa4898dd-2be59394-eaca9157.mp3],CardType::Sentence
 eENE8O!3ic,Jeg spiser.,I'm eating.,[ 11 119 ], [sound:googletts-4937f872-c41ece88-bad93186-63fe81d0-f41366f6.mp3],CardType::Sentence
 qo-p%TnJME,Mange mennesker taler kun et sprog.,Many people only speaks one language.,[ 51 194 49 85 15 149 ], [sound:googletts-cfe58ccf-358044e4-f6e86562-15582fc2-347888e4.mp3],CardType::Sentence
 "C1ppxDkvq,",Jeg er ikke gammel.,I'm not old.,[ 11 1 5 150 ], [sound:googletts-28907762-f3ddb421-457de689-36fbc180-098b27bb.mp3],CardType::Sentence
@@ -437,7 +437,7 @@ K~N_0|=DE=,Tom er en mand.,Tom is a man.,[ 80 1 2 146 ], [sound:googletts-dba603
 Ecw{afw~P],Hvor er din far nu?,Where's your father now?,[ 93 1 30 142 160 ], [sound:googletts-e6dcdd2a-a4e15415-73468e46-827f8ff8-c31c01d2.mp3],CardType::Sentence
 f%4|(^`p`H,Jeg vidste ikke hvad jeg skulle sige til ham.,I didn't know what to say to him.,[ 11 186 5 38 11 125 126 8 47 ], [sound:googletts-016e4503-ceb7cb78-e5a954a0-fda6838c-6d5aacc8.mp3],CardType::Sentence
 K?k1qi!+?d,Hvor ofte skal jeg sige det til dig?,How often do I have to tell you?,[ 93 211 79 11 126 12 8 31 ], [sound:googletts-174d2d1f-4ebd3181-1c6a9f4a-e255ca23-d22c0bfe.mp3],CardType::Sentence
-rHJ4ls+/Qg,Jeg holder meget af hende.,I like her very much.,[ 11 178 29 14 91 ], [sound:googletts-ab435537-922e01e9-89d609c3-db886b52-ecaf8df6.mp3],CardType::Sentence
+rHJ4ls+/Qg,Jeg holder meget af hende.,I care a lot about her.,[ 11 178 29 14 91 ], [sound:googletts-ab435537-922e01e9-89d609c3-db886b52-ecaf8df6.mp3],CardType::Sentence
 C.0_[L&Ry!,Den bil er hendes.,That car is hers.,[ 24 152 1 97 ], [sound:googletts-e9ff0c04-3a68f692-e82f9e51-90157ba1-9027cc21.mp3],CardType::Sentence
 OGN|5zAH/B,"Gør som jeg siger, ikke som jeg gør.","Do as I say, not as I do.",[ 138 27 11 132 5 27 11 138 ], [sound:googletts-24d3d44e-900e32bf-db47daca-2630e8d4-36a1e7b7.mp3],CardType::Sentence
 jL!#?T*ImQ,Tom drikker for meget.,Tom drinks too much.,[ 80 184 10 29 ], [sound:googletts-0a67c68f-57471dcd-e9af1bb8-97c8b541-bfc12470.mp3],CardType::Sentence
@@ -485,7 +485,7 @@ eBN-*x|OA,Jeg kan ikke høre det.,I can't hear it.,[ 11 13 5 195 12 ], [sound:go
 LB?Ea7~rLE,Jeg gav dig en bog.,I gave you a book.,[ 11 137 31 2 140 ], [sound:googletts-18274e26-7ce7988a-d6f0985b-37d57645-045373a4.mp3],CardType::Sentence
 "pM8.yB^,D[","Alle dyr er lige, men nogle dyr er mere lige end andre.","All animals are equal, but some animals are more equal than others.",[ 70 220 1 111 45 122 220 1 120 111 34 ], [sound:googletts-2e88f2a1-3325e715-031e10bd-b812297e-ad71c829.mp3],CardType::Sentence
 en050_z-6+,Jeg elsker dig mere end i går og mindre end i morgen.,I love you more than yesterday and less than tomorrow.,[ 11 57 31 120 34 4 43 16 335 34 4 ], [sound:googletts-675dca17-dae38350-f26899c7-5767cdcd-5a84e843.mp3],CardType::Sentence
-"dpU[*(AHd,",Jeg talte fransk med Tom.,I spoke French to Tom.,[ 11 222 100 17 80 ], [sound:googletts-c83299f6-3dc11384-aefae7e4-b1413e84-ee7cb5e3.mp3],CardType::Sentence
+"dpU[*(AHd,",Jeg talte fransk med Tom.,I spoke French with Tom.,[ 11 222 100 17 80 ], [sound:googletts-c83299f6-3dc11384-aefae7e4-b1413e84-ee7cb5e3.mp3],CardType::Sentence
 sGq>Fzf/xD,Hun vidste for meget.,She knew too much.,[ 39 186 10 29 ], [sound:googletts-2d84b560-09fbdbac-612911e7-72018a61-73ea6773.mp3],CardType::Sentence
 C$W<AqmrI?,Tom talte fransk til mig.,Tom spoke French to me.,[ 80 222 100 8 19 ], [sound:googletts-eec10546-65e9456e-087b8184-0142363b-4077e22a.mp3],CardType::Sentence
 g!<lf<V&{Y,Hvad laver du?,What are you doing?,[ 38 158 7 ], [sound:googletts-4eb21858-ea7fe46b-36f18da9-e9fa304f-d977e616.mp3],CardType::Sentence
@@ -544,17 +544,17 @@ PSNQbM6tc=,Min far kan lide sit arbejde.,My father likes his job.,[ 25 142 13 33
 F8+#hqN!*y,Det er for sent for mig.,It's too late for me.,[ 12 1 10 244 10 19 ], [sound:googletts-f54977ef-c947b532-eb0c833a-4cfbec68-6bc1c215.mp3],CardType::Sentence
 Qm6Xvp92pF,Jeg taler ikke om mig selv.,I am not talking about myself.,[ 11 49 5 22 19 255 ], [sound:googletts-cfa6f726-b5757a14-be4c7910-6079ee5f-9add79c7.mp3],CardType::Sentence
 oVcB)^Q)9+,Jeg kan høre noget.,I hear something.,[ 11 13 195 41 ], [sound:googletts-e34e57a1-40961560-5fd71327-4f342014-80d933a1.mp3],CardType::Sentence
-E8@NFk4=H0,Man kan ikke købe noget hvis man ingen penge har.,You can't buy anything if you have no money.,[ 107 13 5 198 41 185 107 83 201 6 ], [sound:googletts-01b407c1-7bbb9411-433baa3b-0d048f73-749f8707.mp3],CardType::Sentence
+E8@NFk4=H0,Man kan ikke købe noget hvis man ingen penge har.,One can't buy anything if one has no money.,[ 107 13 5 198 41 185 107 83 201 6 ], [sound:googletts-01b407c1-7bbb9411-433baa3b-0d048f73-749f8707.mp3],CardType::Sentence
 "iG=o,]/7~^",Alle dyr er lige.,All animals are equal.,[ 70 220 1 111 ], [sound:googletts-f56dc3f3-c59a4b1a-74cef895-8a0af742-01e9c984.mp3],CardType::Sentence
 c|Gk2Q<h%(,Jeg er ældre end dig.,I'm older than you.,[ 11 1 223 34 31 ], [sound:googletts-c1365a87-c420b2f5-934f797b-5dfc495f-c2fa5e44.mp3],CardType::Sentence
 EI!3?&lWi#,Her er hvad du ønskede.,Here's what you wanted.,[ 50 1 38 7 229 ], [sound:googletts-f9494988-4af3bfa4-01dc9c15-eeccd5fa-5b60ef6c.mp3],CardType::Sentence
 t^H-h0e9$],Vi kan ikke alle tale engelsk.,Not all of us can speak English.,[ 46 13 5 70 64 276 ], [sound:googletts-216dab63-8fdf1ce7-14695fd3-299e7006-d28ae044.mp3],CardType::Sentence
-Gy{z^_ZMen,"Jeg købte den her bog til mig selv, ikke min kone.","I bought this book for myself, not for my wife.",[ 11 106 24 50 140 8 19 255 5 25 148 ], [sound:googletts-32502f37-5b6fdc9c-b2fae064-df67b6a7-fb15b813.mp3],CardType::Sentence
+Gy{z^_ZMen,"Jeg købte den her bog til mig selv, ikke min kone.","I bought this book for myself, not my wife.",[ 11 106 24 50 140 8 19 255 5 25 148 ], [sound:googletts-32502f37-5b6fdc9c-b2fae064-df67b6a7-fb15b813.mp3],CardType::Sentence
 KhUcF}<UR<,Tom er min ven.,Tom is my friend.,[ 80 1 25 209 ], [sound:googletts-9a7d3847-231390f5-be9b8004-769aa098-97c033bd.mp3],CardType::Sentence
 w1cJSOY|5Q,Hvor arbejder din kone?,Where does your wife work?,[ 93 238 30 148 ], [sound:googletts-32e605f9-e511bcc4-1a845c40-c95090dd-f013eeb1.mp3],CardType::Sentence
 "sT,lylFj(?",Tom så på et billede af Mary.,Tom was looking at a picture of Mary.,[ 80 21 9 15 293 14 75 ], [sound:googletts-b5991944-f8eb2dac-2354f9ee-1756872a-ef58e8db.mp3],CardType::Sentence
 lD(FGs#[1!,Tom er far til tre børn.,Tom is the father of three children.,[ 80 1 142 8 103 240 ], [sound:googletts-19d722b5-e26ae555-e5f471df-e149f574-ae6a2fab.mp3],CardType::Sentence
-JQT_1.wSMD,Tom kan intet høre.,Tom can't hear anything.,[ 80 13 162 195 ], [sound:googletts-ffd4274c-60a81322-e9541ca9-626d5192-dd907aa7.mp3],CardType::Sentence
+JQT_1.wSMD,Tom kan intet høre.,Tom can hear nothing.,[ 80 13 162 195 ], [sound:googletts-ffd4274c-60a81322-e9541ca9-626d5192-dd907aa7.mp3],CardType::Sentence
 lX0!_8)mTS,Hvordan siger man det på fransk?,How do you say that in French?,[ 278 132 107 12 9 100 ], [sound:googletts-e77f09f7-ecb537aa-45dcb003-f5a77809-34113aba.mp3],CardType::Sentence
 uAjQVOww[M,Det vidste jeg ikke.,I did not know this.,[ 12 186 11 5 ], [sound:googletts-2b1b169f-615e9178-06f28386-c1eb9b1e-87621809.mp3],CardType::Sentence
 p0n(K]gk0%,De ønsker ikke at gøre det selv.,They don't want to do it by themselves.,[ 37 56 5 3 115 12 255 ], [sound:googletts-ac5cd778-6141d230-524dd31a-de0ec41c-8439b20d.mp3],CardType::Sentence
@@ -601,9 +601,9 @@ zEY`iV7dVZ,Han kan tale fransk og engelsk.,He can speak French and English.,[ 23
 "b7bby,)j#{",Har du brug for penge?,Do you need money?,[ 6 7 109 10 201 ], [sound:googletts-1b33c2a7-1c6e6578-737eff75-b484c401-d2c8e584.mp3],CardType::Sentence
 vb^+ZlY3^0,Det er for sent for hende.,It is too late for her.,[ 12 1 10 244 10 91 ], [sound:googletts-ac364c90-7e9725ba-9f85112c-9bb608e3-e840c883.mp3],CardType::Sentence
 s6uX]GfiM+,Jeg tror jeg vil købe en ny bil.,I think I'll buy a new car.,[ 11 74 11 20 198 2 174 152 ], [sound:googletts-5efe232b-b2dc15bd-722b0d68-728cf8b9-b0d64842.mp3],CardType::Sentence
-j-rr</$uEJ,De er de bedste af de bedste.,They're the cream of the crop.,[ 37 1 37 199 14 37 199 ], [sound:googletts-b289b4e5-87486347-06d4b234-f6c0972a-04ec783c.mp3],CardType::Sentence
+j-rr</$uEJ,De er de bedste af de bedste.,They're the best of the best.,[ 37 1 37 199 14 37 199 ], [sound:googletts-b289b4e5-87486347-06d4b234-f6c0972a-04ec783c.mp3],CardType::Sentence
 I_{V>9}RjD,Hvem sagde det ?,Who said that?,[ 218 104 12 ], [sound:googletts-bf2e8a9a-3c305081-2bcc33be-1a97d584-28612c51.mp3],CardType::Sentence
-oo;m.GE2O$,Hvis bare jeg kunne hjælpe dig.,I wish I could help you.,[ 185 181 11 42 145 31 ], [sound:googletts-4e0d0e08-5de2ccaa-3e4a91fc-df3fa949-558f9e85.mp3],CardType::Sentence
+oo;m.GE2O$,Hvis bare jeg kunne hjælpe dig.,If only I could help you.,[ 185 181 11 42 145 31 ], [sound:googletts-4e0d0e08-5de2ccaa-3e4a91fc-df3fa949-558f9e85.mp3],CardType::Sentence
 E{+?R1|Xfc,Jeg kan ikke hjælpe Dem.,I can't help you.,[ 11 13 5 145 171 ], [sound:googletts-1bc83114-df98c64c-cfdcd1f5-25fe18f2-f0d84c23.mp3],CardType::Sentence
 qq;ZFq{|#L,Det er aldrig for sent.,It's never too late.,[ 12 1 61 10 244 ], [sound:googletts-b9f1e836-5cb21c15-161bb043-569b1e7d-4f703dd3.mp3],CardType::Sentence
 Fq_|:T{k]X,Jeg er her ofte.,I'm often here.,[ 11 1 50 211 ], [sound:googletts-a40431c3-e036e5d7-8baadb8e-403d86c6-55cb0ddc.mp3],CardType::Sentence
@@ -617,21 +617,21 @@ Oh[Wk+6~lO,Og det her er min side.,And this is my page.,[ 16 12 50 1 25 280 ], [
 s_DZ9$[U+;,Jeg ønsker også at komme!,I want to come too!,[ 11 56 216 3 131 ], [sound:googletts-c84d8270-9175c820-56d52a4f-88d57b74-eb738a1a.mp3],CardType::Sentence
 GiQe#A:V1R,Hun må have været meget smuk.,She must have been very beautiful.,[ 39 102 53 114 29 322 ], [sound:googletts-ec7b8bae-bfb7bf50-056d9fee-2f083729-c6889e4d.mp3],CardType::Sentence
 Oe7S_5C`XF,Han er lidt som sin far.,He is a bit like his father.,[ 23 1 225 27 32 142 ], [sound:googletts-9d8c4335-7643576c-6717a273-a680d121-309f835d.mp3],CardType::Sentence
-H.Wl:q*8sI,Hvem taler i om?,Who are you talking about?,[ 218 49 4 22 ], [sound:googletts-19348e91-6c7563d8-4c19097d-d820481a-54835bc8.mp3],CardType::Sentence
+H.Wl:q*8sI,Hvem taler I om?,Who are you talking about?,[ 218 49 4 22 ], [sound:googletts-19348e91-6c7563d8-4c19097d-d820481a-54835bc8.mp3],CardType::Sentence
 y5V$IK^L8;,Arbejder din kone?,Does your wife work?,[ 238 30 148 ], [sound:googletts-302348b2-646b94d7-912ad573-eebf1c31-3f6f0430.mp3],CardType::Sentence
 lCMa[~D{S@,Nogle mennesker taler for meget og gør for lidt.,Some people talk too much and do too little.,[ 122 194 49 10 29 16 138 10 225 ], [sound:googletts-52b94097-1e320382-ec32a1e9-c1d6bc34-1a291efe.mp3],CardType::Sentence
 EpN^9%rEtj,Forstår I mig?,Do you understand me?,[ 175 4 19 ], [sound:googletts-8cb9cb44-be384ba7-ddb04fda-86858aa5-711f6099.mp3],CardType::Sentence
 X;YM:M^1<,Hvem er jeg? Hvor kommer jeg fra? Er der liv efter døden? Hvad er meningen med livet på Jorden?,Who am I? Where do I come from? Is there life after death? What is the meaning of life on earth?,[ 218 1 11 93 71 11 36 1 28 304 105 ], [sound:googletts-677c676c-48d58c24-8eb25566-cf188121-69ced000.mp3],CardType::Sentence
 EF.?xC#=]Y,Min mor sagde tit at tid er penge.,My mother often said that time is money.,[ 25 116 104 246 3 153 1 201 ], [sound:googletts-cba35899-4c2a37fa-fb4870ed-0c57cd9a-e3462dce.mp3],CardType::Sentence
 "nK3g<R<;,n",Hvor talte du dem?,Where did you count them?,[ 93 222 7 171 ], [sound:googletts-c6641c0b-ad84429b-73cfb762-9cdb2da6-99e28adb.mp3],CardType::Sentence
-y0w<l;Ue`r,"Jeg elsker en pige, men jeg skal aldrig tale hende om det.","I love a girl, but I'll never tell her about it.",[ 11 57 2 481 45 11 79 61 64 91 22 ], [sound:googletts-75ed145b-c93c704f-40b02784-79cb7d96-af35ff12.mp3],CardType::Sentence
+y0w<l;Ue`r,"Jeg elsker en pige, men jeg vil aldrig fortælle hende det.","I love a girl, but I'll never tell her.",[ 11 57 2 481 45 11 79 61 64 91 22 ],[sound:googletts-e7295b4b-c34c3ea8-78611195-a8adefc4-30b46884.mp3],CardType::Sentence
 oc*!a6_YAA,Jeg kan godt lide mit liv.,I like my life.,[ 11 13 78 33 62 304 ], [sound:googletts-0c3e08ea-577fd293-f80513c3-deccd5b5-f0f20a51.mp3],CardType::Sentence
 D%i)}[LDur,Hun tager et bad hver morgen.,She has a bath every morning.,[ 39 66 15 266 88 169 ], [sound:googletts-a4d24333-8126a9a1-79495950-2b5d6f6f-44b26f65.mp3],CardType::Sentence
 y@seZ8$V=F,Det er bedre.,It's better.,[ 12 1 172 ], [sound:googletts-7525e0a0-2b5ed75c-c7f5ee7b-c8f71cce-20d9139b.mp3],CardType::Sentence
 F<#SJD%|w:,Jeg er bedre.,I am better.,[ 11 1 172 ], [sound:googletts-56e750c7-85b2104e-9ea1c1f6-d4a862af-7899c7e1.mp3],CardType::Sentence
 J0qVh4Hl{G,Jeg stod op klokken fem den morgen.,I got up at five that morning.,[ 11 275 68 123 173 24 169 ], [sound:googletts-79c29524-b0c44708-f39d9fa1-803a6a0e-99ac3735.mp3],CardType::Sentence
 iz2FVDJ8l.,Dette er et billede af min mor.,This is a picture of my mother.,[ 63 1 15 293 14 25 116 ], [sound:googletts-32d498b3-167c7359-ebbef5f4-8aa689d7-6ce447b9.mp3],CardType::Sentence
-HM?DkeDh`h,Jeg har ikke mange penge at give ud af.,I don't have a great deal of money to spend.,[ 11 6 5 51 201 3 269 58 14 ], [sound:googletts-acae30bc-d84b0487-16afca52-b253d977-4bb41128.mp3],CardType::Sentence
+HM?DkeDh`h,Jeg har ikke mange penge at give ud af.,I don't have a great deal of money to give out.,[ 11 6 5 51 201 3 269 58 14 ], [sound:googletts-acae30bc-d84b0487-16afca52-b253d977-4bb41128.mp3],CardType::Sentence
 rX[pKNV-d9,Jeg har ikke hørt fra ham siden.,I haven't heard from him since then.,[ 11 6 5 228 36 47 177 ], [sound:googletts-287e8b7d-87dfba31-e4414a16-0d597356-ba6c2702.mp3],CardType::Sentence
 dV~&q63R97,Denne bog er skrevet på fransk.,This book is written in French.,[ 52 140 1 267 9 100 ], [sound:googletts-9402f782-e829d4c8-ad8cb2a4-2d7c715b-e6f059c8.mp3],CardType::Sentence
 nda2<>~^rH,Jeg forstår ikke.,I do not understand.,[ 11 175 5 ], [sound:googletts-7e9a0951-3819ae03-b866149f-05b3336f-54da15c3.mp3],CardType::Sentence
@@ -639,13 +639,13 @@ E8J#cID:]q,Folk burde gøre deres bedste.,People should do their best.,[ 398 157
 pfRh[82rd+,Jeg er bange for at det ikke er så let.,I am afraid it's not so easy.,[ 11 1 261 10 3 12 5 1 21 219 ], [sound:googletts-07a5ea79-f4f73590-fef5bc4e-f2169d8f-04d41ff1.mp3],CardType::Sentence
 L^v{`MxLi&,Hvor fandt du dem?,Where did you find them?,[ 93 227 7 171 ], [sound:googletts-4635dc54-4d9be127-4586735e-2896ae7d-96ee44ca.mp3],CardType::Sentence
 Q_rc[@sh.U,"Og du, hvordan har du det?","And you, how are you?",[ 16 7 278 6 7 12 ], [sound:googletts-deb2d929-5f0cedad-a09b411b-e88322eb-5489bdd4.mp3],CardType::Sentence
-vW+x(S20SO,Tom er i stand til at tale fransk.,Tom is able to speak French.,[ 80 1 4 347 8 3 64 100 ], [sound:googletts-867d60e2-7c9354c5-e02a73b1-66706afe-56d30e6d.mp3],CardType::Sentence
+vW+x(S20SO,Tom er i stand til at tale fransk.,Tom is capable of speaking French.,[ 80 1 4 347 8 3 64 100 ], [sound:googletts-867d60e2-7c9354c5-e02a73b1-66706afe-56d30e6d.mp3],CardType::Sentence
 N6?(f>wsQ3,Jeg kunne ikke finde hans hus.,I couldn't find his house.,[ 11 42 5 188 72 214 ], [sound:googletts-469f1c00-0e9551d3-40bfb4c9-058c2dd7-f97a25e7.mp3],CardType::Sentence
 Qjgscn`1_y,Jeg kan tale en smule fransk.,I can speak French a little.,[ 11 13 64 2 282 100 ], [sound:googletts-8d4e1829-e20d6fed-af44ce35-68a92cc2-9b9c76ee.mp3],CardType::Sentence
 F&m|$L*#]p,"Man kan drikke for meget, men man drikker aldrig nok.","One can drink too much, but one never drinks enough.",[ 107 13 251 10 29 45 107 184 61 258 ], [sound:googletts-b3e44640-21b53b43-0589322d-be38724a-b9e2115e.mp3],CardType::Sentence
 c}d22iWHUe,Jeg vil aldrig skrive et brev til Mary.,I will never write a letter to Mary.,[ 11 20 61 136 15 327 8 75 ], [sound:googletts-9f51b92e-78d78f96-87d772c3-1a2f04eb-8b994dbf.mp3],CardType::Sentence
 hi~8?f]%pH,Hun er den eneste ven jeg har.,She is the only friend I have.,[ 39 1 24 191 209 11 6 ], [sound:googletts-dff840a7-88cfdb3d-a817a7f5-e9282b3a-099c02c8.mp3],CardType::Sentence
-G&A!Gq#5QL,Jeg har det bedre nu.,I'm quite better now.,[ 11 6 12 172 160 ], [sound:googletts-2018474a-b3d95af1-a40bf44b-4b74c4dd-bd03b2d0.mp3],CardType::Sentence
+G&A!Gq#5QL,Jeg har det bedre nu.,I'm better now.,[ 11 6 12 172 160 ], [sound:googletts-2018474a-b3d95af1-a40bf44b-4b74c4dd-bd03b2d0.mp3],CardType::Sentence
 iQ8Q;}?eu:,Du har gjort det meget godt.,You've done it very well.,[ 7 6 288 12 29 78 ], [sound:googletts-129e0a9a-60d03bbe-e7e8e082-684eaa9d-4735d5be.mp3],CardType::Sentence
 K]3EWen_}K,Jeg købte mange bøger.,I bought many books.,[ 11 106 51 257 ], [sound:googletts-03085c0e-2f204a96-61c5d87a-db47dd72-18effde7.mp3],CardType::Sentence
 N3tIyLXbRe,Tom lærer mig fransk.,Tom teaches me French.,[ 80 268 19 100 ], [sound:googletts-c586e875-61410b8f-4715c108-0e41711a-94e521ae.mp3],CardType::Sentence
@@ -656,7 +656,7 @@ eNV%C`=}GR,Tom fortalte mig at han talte fransk.,Tom told me that he spoke Frenc
 "I:G?,.xN|/",Jeg ville gerne se dig før jeg tager af sted til Europa.,I would like to see you before I leave for Europe.,[ 11 65 189 54 31 179 11 66 14 303 8 ], [sound:googletts-bc401672-b60e00b5-c726f240-4a4d79bb-80bfd583.mp3],CardType::Sentence
 "dB7E,ZCk4=",Vores lærer er ikke altid venlig over for os.,Our teacher is not always kind to us.,[ 130 268 1 5 94 241 69 10 73 ], [sound:googletts-5fb4af87-5cfd40c5-6f515274-7a3824d8-79b22ee1.mp3],CardType::Sentence
 n.:sb?K%yA,Forstår begge fransk?,Do they both understand French?,[ 175 309 100 ], [sound:googletts-ac232521-62a152d5-8c045aaa-e41c92f0-bc218f31.mp3],CardType::Sentence
-Fj;w]VSh~~,Man er nødt til at lære engelsk om man kan lide det eller ej.,You must learn English whether you like it or not.,[ 107 1 226 8 3 121 276 22 107 13 33 ], [sound:googletts-65ef715b-f154a75d-1e2d44e3-5f9bac3b-86b994f8.mp3],CardType::Sentence
+Fj;w]VSh~~,Man er nødt til at lære engelsk om man kan lide det eller ej.,One must learn English whether they like it or not.,[ 107 1 226 8 3 121 276 22 107 13 33 ], [sound:googletts-65ef715b-f154a75d-1e2d44e3-5f9bac3b-86b994f8.mp3],CardType::Sentence
 C[l[N0P3Ut,Jeg ville ønske at jeg kunne hjælpe dig.,I wish I could help you.,[ 11 65 317 3 11 42 145 31 ], [sound:googletts-3f36c770-fb6a06c0-e6e01fb7-f1908223-675dde43.mp3],CardType::Sentence
 noXyq4OSY%,Hans gamle kat lever endnu.,His old cat is still alive.,[ 72 176 117 330 232 ], [sound:googletts-6f62ffb5-1bb9c26a-d6861ae4-0e30d947-8dd551f1.mp3],CardType::Sentence
 gCi2S1[uu~,"Jeg kan ikke huske, hvor jeg købte den.",I can't remember where I bought it.,[ 11 13 5 329 93 11 106 24 ], [sound:googletts-6354b0d7-27864393-067014df-1c4ca4d2-0bb7da0d.mp3],CardType::Sentence
@@ -789,7 +789,7 @@ KgJpSoeW(E,Han er stadig på arbejde.,He's still at work.,[ 23 1 180 9 210 ], [s
 K-?PqZk:SF,Skal jeg åbne det hele?,Must I open everything?,[ 79 11 326 12 98 ], [sound:googletts-7d4ce3a2-e593360e-1a8db4d4-2070cf77-6195a7fc.mp3],CardType::Sentence
 I:Yfa:{R:b,Ønsker du ikke at få at vide hvad det betyder?,Don't you want to know what it means?,[ 56 7 5 3 82 3 297 38 12 306 ], [sound:googletts-e327620f-18061613-d0bb8298-a4725f82-2ef24848.mp3],CardType::Sentence
 KZ4;~y)F!5,Det er for sent.,That's too late.,[ 12 1 10 244 ], [sound:googletts-967248ac-fe9838fb-181a93c6-5597c41d-d0c9e6c6.mp3],CardType::Sentence
-"tO6n,;nO;|",Det er allerede for sent.,It's too late now.,[ 12 1 141 10 244 ], [sound:googletts-68a30478-78f77274-ca2169aa-ff2c752a-0ba7cdba.mp3],CardType::Sentence
+"tO6n,;nO;|",Det er allerede for sent.,It's already too late.,[ 12 1 141 10 244 ], [sound:googletts-68a30478-78f77274-ca2169aa-ff2c752a-0ba7cdba.mp3],CardType::Sentence
 HTuN7gw?Rp,Jeg har to bøger.,I have two books.,[ 11 6 44 257 ], [sound:googletts-93671533-54146c1c-ec9f04d4-bf6e6384-81a3227b.mp3],CardType::Sentence
 nDKs;`;=:|,Din cykel er bedre end min.,Your bike is better than mine.,[ 30 273 1 172 34 25 ], [sound:googletts-ea101973-f20865b2-fd51cdf1-a5d2f3ad-291d3fd3.mp3],CardType::Sentence
 6Gb+AyhY.,Der er en hund ved døren.,There's a dog by the door.,[ 28 1 2 127 26 302 ], [sound:googletts-5e28c050-68852f11-ec7cec27-28167b98-f21bc859.mp3],CardType::Sentence
@@ -1104,7 +1104,7 @@ c6&/+hphO,Hvad er der i vejen med dig.,What's the matter with you?,[ 38 1 28 4 5
 br[O*Mn%C+,"Jeg ved, hvor farligt det kan være at være sammen med hende.",I know how dangerous it can be to be with her.,[ 11 26 93 511 12 13 40 3 40 383 17 ], [sound:googletts-ccc1a918-7e8e4279-f702c95d-ae9b7ebc-25d850c5.mp3],CardType::Sentence
 x<n_sUIp96,Jeg er træt af at høre det.,I am tired of hearing that.,[ 11 1 432 14 3 195 12 ], [sound:googletts-9eb0bf88-1c346b0d-ce1a0696-3f09d961-036daa59.mp3],CardType::Sentence
 Mw[SV;!leK,Det er ikke koldt i dag.,It is not cold today.,[ 12 1 5 471 4 87 ], [sound:googletts-33f0f420-13af9c26-89aee639-3a7b8c40-7602b57e.mp3],CardType::Sentence
-G&vEx#k(^h,Tom bad flere gange Mary åbne vinduet.,Tom asked Mary several times to open the window.,[ 80 266 151 224 75 326 570 ], [sound:googletts-c0ae549f-1c27d0d7-57b1bff3-3089c95e-9930cebc.mp3],CardType::Sentence
+G&vEx#k(^h,Tom bad Mary om at åbne vinduet flere gange,Tom asked Mary several times to open the window.,[ 80 266 151 224 75 326 570 ],[sound:googletts-54f6eace-571090e5-f286c499-34001851-9cd2a223.mp3],CardType::Sentence
 y8dg#5?#F`,Vil du have en kop kaffe?,Do you want a cup of coffee?,[ 20 7 53 2 382 221 ], [sound:googletts-a4c290bf-8c82afd1-7652744a-bd962a52-ac5c28f1.mp3],CardType::Sentence
 K(iz=R7>rY,Hans navn er kendt af alle i denne by.,His name is known to everyone in this town.,[ 72 204 1 380 14 70 4 52 368 ], [sound:googletts-e9d1be13-ed27e7c9-79ab770e-7dc209a2-40803fef.mp3],CardType::Sentence
 NVE;QO7iez,Jeg lærte at leve uden hende.,I learned to live without her.,[ 11 441 3 247 143 91 ], [sound:googletts-add554cb-94d5ada7-97db85fb-09c3bfe6-bb298484.mp3],CardType::Sentence
@@ -1310,7 +1310,7 @@ NV#?9p`BD},Han kan godt lide at spille kort.,He likes to play cards.,[ 23 13 78 
 FB>]f-dub@,Tom fandt ud af at hans far ikke var hans rigtige far.,Tom found out his dad wasn't his real dad.,[ 80 227 58 14 3 72 142 5 18 72 868 ], [sound:googletts-f68d03b3-2690a9bd-4e5e86f3-4759eaa0-f0c7bf98.mp3],CardType::Sentence
 IoN/XQ*=0m,Mange har lavet den samme fejl.,Many people have made the same mistake.,[ 51 6 164 24 283 504 ], [sound:googletts-381e0a8f-79ff9a06-40a9f925-16a8c0e8-39b7cc82.mp3],CardType::Sentence
 GatPF_h6q9,Var I hjemme i går?,Were you at home yesterday?,[ 18 4 479 4 43 ], [sound:googletts-8fdac424-899f9956-e7fc80e3-4323ff07-918f0903.mp3],CardType::Sentence
-"AVlH6$*U(,",Jeg vil gerne have eget værelse.,I would like to have a room of my own.,[ 11 20 189 53 360 422 ], [sound:googletts-82fc88e9-8121dab7-2d9f3c6a-d969ca99-a69f700b.mp3],CardType::Sentence
+"AVlH6$*U(,",Jeg vil gerne have mit eget værelse.,I would like to have a room of my own.,[ 11 20 189 53 360 422 ],[sound:googletts-059edfed-bfb4ceb0-b952554c-67293ef0-7b9b4c6e.mp3],CardType::Sentence
 B1zEei2zWF,"Da jeg var ti år gammel, tænkte jeg, at når jeg blev seksten, ville mit liv blive cool.","When I was ten years old, I thought that when I would be sixteen, my life would be cool.",[ 95 11 18 183 92 150 928 11 3 139 11 ], [sound:googletts-691a40e2-e0565566-e18b7076-b4c6371f-bcb8533c.mp3],CardType::Sentence
 Oa#_Eh{AV2,Jeg tænker hele dagen på Tom.,I think about Tom all day.,[ 11 332 98 433 9 80 ], [sound:googletts-5fabcf29-f7536119-bc640fd6-30b965f7-9fb0a1e2.mp3],CardType::Sentence
 EM8u=UHQYX,Hun spiller tennis hver dag.,She plays tennis every day.,[ 39 215 545 88 87 ], [sound:googletts-c1ba2f69-a975d37a-d67fdc6e-b7848ecc-fddeab81.mp3],CardType::Sentence
@@ -1476,7 +1476,7 @@ yYVReI9/Il,Hun tror ikke på Gud.,She doesn't believe in God.,[ 39 74 5 9 549 ],
 Lv0{<-kknt,Jeg kan ikke huske hvor jeg gemte mine penge.,I can't remember where I hid my money.,[ 11 13 5 329 93 11 695 81 201 ], [sound:googletts-f44ee6a4-82ab4c89-aa6b901f-61c1f364-d34f711e.mp3],CardType::Sentence
 b^VNe:%D;$,Husker du hvor meget jeg elskede dig?,Do you remember how much I loved you?,[ 473 7 93 29 11 407 31 ], [sound:googletts-ed5d5687-6c5408e6-751f282a-8b2bde9c-769d8f61.mp3],CardType::Sentence
 m!_KaF/5={,Jeg sov bedre end jeg gjorde sidste nat.,I slept better than I did last night.,[ 11 709 172 34 11 112 128 331 ], [sound:googletts-147de690-f62e3597-6e6c1264-a6373747-8191a6c7.mp3],CardType::Sentence
-DJXRW2WGT?,Kom venligst tidligere næste gang.,Would you mind coming earlier next time?,[ 96 192 680 245 113 ], [sound:googletts-4f7e51ba-47146331-fec7f4eb-01c3aa42-641850cf.mp3],CardType::Sentence
+DJXRW2WGT?,Kom venligst tidligere næste gang.,Please come earlier next time.,[ 96 192 680 245 113 ], [sound:googletts-4f7e51ba-47146331-fec7f4eb-01c3aa42-641850cf.mp3],CardType::Sentence
 nR1HHq;8=.,Du gjorde den samme fejl.,You made the same mistake.,[ 7 112 24 283 504 ], [sound:googletts-5de95ed0-13d40a64-1af69e23-fc52159c-73fae103.mp3],CardType::Sentence
 pIhHO40_Xi,Jeg har besluttet at sige til ham at jeg elsker hende.,I decided to tell him that I love her.,[ 11 6 1041 3 126 8 47 3 11 57 91 ], [sound:googletts-9ae3e354-bb863864-d096d060-3b3c9695-c1392888.mp3],CardType::Sentence
 oLc)0$LgzX,Jeg er stolt over min skole.,I'm proud of my school.,[ 11 1 501 69 25 300 ], [sound:googletts-0abf23c9-b55f0915-04bd3b3f-49cecf99-b11c9b2f.mp3],CardType::Sentence
@@ -1692,11 +1692,11 @@ I8>Q0M%-St,Du løj over for mig.,You lied to me.,[ 7 620 69 10 19 ], [sound:goog
 y(;Mq/Q_z(,Vi fik meget sne sidste år.,We had a lot of snow last year.,[ 46 249 29 754 128 92 ], [sound:googletts-f5a8d032-4fd1bc5b-afa7e47d-8565eeea-4a077943.mp3],CardType::Sentence
 dmQ8iQ0g/Y,Tom er overraskende god til fransk.,Tom is surprisingly good at French.,[ 80 1 739 84 8 100 ], [sound:googletts-fbcf3f2e-503c5b89-8d21ebee-1bc99457-1a0abe70.mp3],CardType::Sentence
 h$tyMADg#B,Tom er tydeligvis lidt ked af det.,Tom is obviously a little upset.,[ 80 1 630 225 392 14 12 ], [sound:googletts-7182405e-72cf19c9-60120ecf-a7659121-e083e975.mp3],CardType::Sentence
-jyWn|<v{7M,"Hvis det ikke findes i Tatoeba, så er det ikke en sætning.","If you can't find it on Tatoeba, it's not a sentence.",[ 185 12 5 556 4 725 21 1 12 5 2 ], [sound:googletts-6deffe00-07d93303-62ef394a-50081f0b-4f4c4841.mp3],CardType::Sentence
+jyWn|<v{7M,"Hvis det ikke findes i Tatoeba, så er det ikke en sætning.","If it can't be found on Tatoeba, then it's not a sentence.",[ 185 12 5 556 4 725 21 1 12 5 2 ], [sound:googletts-6deffe00-07d93303-62ef394a-50081f0b-4f4c4841.mp3],CardType::Sentence
 yJy0$dU8K3,Jeg ønsker ikke at åbne vinduet.,I don't want to open the window.,[ 11 56 5 3 326 570 ], [sound:googletts-4de2f705-e4249d77-91346423-1150ae07-bf40b2e5.mp3],CardType::Sentence
 ci<eLt1sm<,Næste gang kommer jeg tidligere.,Next time I'll come earlier.,[ 245 113 71 11 680 ], [sound:googletts-4e3b8679-d0d3bcd4-b21d15a8-5ebb8135-d6af4da0.mp3],CardType::Sentence
 e0T#-1Qj=P,Tom så glad ud.,Tom looked happy.,[ 80 21 562 58 ], [sound:googletts-2f6f98ce-47b430b0-1fcd83db-10809ff6-28a0caf7.mp3],CardType::Sentence
-EEJQ<t(?0:,Engang boede der en smuk pige.,"Once upon a time there, lived a pretty girl.",[ 558 418 28 2 322 481 ], [sound:googletts-bc866f18-e2a493b9-78e66b24-5f391b8b-21c1e999.mp3],CardType::Sentence
+EEJQ<t(?0:,Engang boede der en smuk pige.,"Once upon a time, there lived a pretty girl.",[ 558 418 28 2 322 481 ], [sound:googletts-bc866f18-e2a493b9-78e66b24-5f391b8b-21c1e999.mp3],CardType::Sentence
 l&|Nw;iyJ@,Du er en smuk pige.,You're a beautiful girl.,[ 7 1 2 322 481 ], [sound:googletts-e4b8ce36-76e18747-73b061ef-efd2083c-cea556da.mp3],CardType::Sentence
 Q$]kDhp`E?,Han er i stand til at tale japansk.,He's able to speak Japanese.,[ 23 1 4 347 8 3 64 708 ], [sound:googletts-5a2b51a2-0ef23965-3a690ba6-b5e4c614-cd554dd6.mp3],CardType::Sentence
 "f=f,Hb4e`r",Slet ikke.,No way.,[ 388 5 ], [sound:googletts-0bdbe439-7440b1a9-f9c25018-84d7defd-8845afce.mp3],CardType::Sentence
@@ -1757,7 +1757,7 @@ Dz5w!vfCv`,Var dine forældre hjemme?,Were your mother and father home?,[ 18 99 
 hwEmUGwu3?,Jeg har et æg.,I have an egg.,[ 11 6 15 538 ], [sound:googletts-c93680ba-a9ba34aa-d711780b-25e4fdd5-7f60e55f.mp3],CardType::Sentence
 n@lW@X[.w*,Jeg elsker at rejse.,I love to travel.,[ 11 57 3 551 ], [sound:googletts-3827922b-8bf1a2af-2f371d8e-fcb25144-b7caf7dc.mp3],CardType::Sentence
 wn-V!r}W&R,Han synes ikke at være på vej til byen.,He doesn't seem to be heading for the town.,[ 23 217 5 3 40 9 286 8 877 ], [sound:googletts-faca0849-22b98d9f-e95a0901-84abdf32-a30b1ebe.mp3],CardType::Sentence
-H*e@1^M{|f,Min cykel er blevet stjålet.,I had my bicycle stolen.,[ 25 273 1 212 713 ], [sound:googletts-759d9e6d-6ec496d9-6e34bf4b-74919f10-be689521.mp3],CardType::Sentence
+H*e@1^M{|f,Min cykel er blevet stjålet.,My bicycle has been stolen.,[ 25 273 1 212 713 ], [sound:googletts-759d9e6d-6ec496d9-6e34bf4b-74919f10-be689521.mp3],CardType::Sentence
 MX6j%@+n&D,Jeg kan ikke forestille mig et liv uden Tom.,I can't imagine life without Tom.,[ 11 13 5 927 19 15 304 143 80 ], [sound:googletts-60c37173-349c381a-d40f62e0-66914fac-907b7ca5.mp3],CardType::Sentence
 JJTwPN{!;+,Hører du efter?,Are you listening?,[ 503 7 105 ], [sound:googletts-e84b1456-48b53a1f-4779cb49-cfb7e4bc-ba444e02.mp3],CardType::Sentence
 w56m<AEO(7,Tom lader som om han ikke engang kender Mary.,Tom acts like he doesn't even know Mary.,[ 80 690 27 22 23 5 558 110 75 ], [sound:googletts-b23edb42-ceecad76-067c0ae8-872eabd2-46904482.mp3],CardType::Sentence
@@ -1765,10 +1765,10 @@ F_{F2-e(L/,Ingen stiller mig spørgsmål om mit land.,Nobody asks me questions a
 C.4}HD_*hX,Jeg ønsker ikke at oversætte denne sætning.,I don't want to translate this sentence.,[ 11 56 5 3 671 52 355 ], [sound:googletts-ca7f49ac-bed89846-d6641892-7e89ec3d-147c15db.mp3],CardType::Sentence
 "cG?,g4Eq=|",Jeg tror ikke at fjernsyn nogensinde kommer til at erstatte bøger.,I don't think TV will ever take the place of books.,[ 11 74 5 3 587 163 71 8 3 789 257 ], [sound:googletts-45431880-6e43bd99-07697a22-6006a285-3539c2fb.mp3],CardType::Sentence
 N0x@C!L1WX,Sig til Tom at jeg ringer ham op.,Tell Tom I'll call him back.,[ 48 8 80 3 11 949 47 68 ], [sound:googletts-76ce1079-a901e388-1034c329-b247a203-fb4c9da2.mp3],CardType::Sentence
-Hmk:T#6S6n,Jeg vil gå hen og spørge Tom.,I'll go ask Tom.,[ 11 20 77 237 16 822 80 ], [sound:googletts-3d458934-29c3ae47-18e387b0-43ca53d0-0aaf0c41.mp3],CardType::Sentence
+Hmk:T#6S6n,Jeg vil gå hen og spørge Tom.,I'll go and ask Tom.,[ 11 20 77 237 16 822 80 ], [sound:googletts-3d458934-29c3ae47-18e387b0-43ca53d0-0aaf0c41.mp3],CardType::Sentence
 eU><28k%)=,Tom lovede at han ville gå lige hjem.,Tom promised he'd go straight home.,[ 80 873 3 23 65 77 111 311 ], [sound:googletts-507a98cd-3cf58ce6-ef508569-cb57da56-710a7c4f.mp3],CardType::Sentence
 cDEXb$@Z?$,Jeg er stolt af mine sko.,I am proud of my shoes.,[ 11 1 501 14 81 451 ], [sound:googletts-5dae5d9e-08e233ad-cd92536e-ef38be87-262d6fee.mp3],CardType::Sentence
-I/6kz}SV:B,Jeg skal lige straks være der.,I'll be right with you.,[ 11 79 111 773 40 28 ], [sound:googletts-c666729f-38c30ff5-3d22f878-a3dcfb41-e171df6a.mp3],CardType::Sentence
+I/6kz}SV:B,Jeg skal lige straks være der.,I'll be right there.,[ 11 79 111 773 40 28 ], [sound:googletts-c666729f-38c30ff5-3d22f878-a3dcfb41-e171df6a.mp3],CardType::Sentence
 e#i{Ot0jQX,Det er huset hvor jeg blev født og hvor jeg voksede op.,This is the house in which I was born and brought up.,[ 12 1 572 93 11 35 468 16 93 11 577 ], [sound:googletts-961cd39c-c42917b6-e48f31fe-90b94fba-3729f9d6.mp3],CardType::Sentence
 Iivp@gL9LP,Jeg vil vise dig mit værelse.,I'll show you my room.,[ 11 20 542 31 62 422 ], [sound:googletts-3fca354b-464f929b-e9c0a9fc-67582995-8a91e6a6.mp3],CardType::Sentence
 P%eO)pTXX!,Jeg kan ikke lide kold kaffe.,I don't like cold coffee.,[ 11 13 5 33 712 221 ], [sound:googletts-d2ff28b3-26fee78d-6cbecdf6-3a1e07e1-698e9b63.mp3],CardType::Sentence
@@ -1780,7 +1780,7 @@ q8-V|!lQN1,Det glæder mig at møde dig.,I'm pleased to meet you.,[ 12 419 19 3 
 bY8iqhUH-9,Han lavede den samme fejl igen.,He repeated the same mistake.,[ 23 281 24 283 504 706 ], [sound:googletts-861c4c11-ef24da5c-201222df-c951c55a-83cc22ad.mp3],CardType::Sentence
 uV_1N3ewSF,Jeg er træt af at se fjernsyn.,I'm tired of watching television.,[ 11 1 432 14 3 54 587 ], [sound:googletts-a3b9897f-6cfa5b81-2e789975-3a823a84-e0cdd697.mp3],CardType::Sentence
 Pb<gHj%jO2,Hvordan har du det for tiden?,How are you doing these days?,[ 278 6 7 12 10 645 ], [sound:googletts-e50f14d5-ad0f37c6-6ab370b0-3e2ef4b8-732cc85a.mp3],CardType::Sentence
-jfsF.LIuro,Hun var gået ind i værelset og havde lagt sig på sengen.,She went into the room and lay on the bed.,[ 39 18 348 279 4 535 16 60 688 48 9 ], [sound:googletts-31557b6a-cd6720c6-5be8ba24-630365b7-b390afa1.mp3],CardType::Sentence
+jfsF.LIuro,Hun var gået ind i værelset og havde lagt sig på sengen.,She had gone into the room and laid on the bed.,[ 39 18 348 279 4 535 16 60 688 48 9 ], [sound:googletts-31557b6a-cd6720c6-5be8ba24-630365b7-b390afa1.mp3],CardType::Sentence
 u6qJms5w=e,Han betalte enhver sit.,He paid everyone his due.,[ 23 557 379 108 ], [sound:googletts-c63830bd-078d1e00-ae2eeff9-a6f6541c-3bfdb9fc.mp3],CardType::Sentence
 s7P&y}.hjJ,Jeg er træt og vil i seng.,I'm tired and I want to go to bed.,[ 11 1 432 16 20 4 576 ], [sound:googletts-7379cec0-595f6a9d-2ddb4367-dbb8adb0-7a6a7302.mp3],CardType::Sentence
 "m,{SzO+qME",Tom sidder ofte hele dagen foran sin computer.,Tom often sits in front of his computer all day.,[ 80 393 211 98 433 526 32 681 ], [sound:googletts-685a8f30-fac26b07-875ca69f-8b19696a-b2a824f1.mp3],CardType::Sentence
@@ -1852,9 +1852,9 @@ Rc?$iw4Kgy,Jeg bliver vred når min fyr taler med andre piger.,I get angry when 
 N138AnRQ6P,Jeg åbnede døren og så to drenge som stod ved siden af hinanden.,I opened the door and saw two boys standing side by side.,[ 11 416 302 16 21 44 984 27 275 26 177 ], [sound:googletts-3a0b537a-b44bd214-b74b58cb-ebec1fff-69c161ef.mp3],CardType::Sentence
 A)|%|B&DE(,De kan heller ikke høre mig.,They can't hear me either.,[ 37 13 778 5 195 19 ], [sound:googletts-3a9a00b8-5ebb1658-b34fca8b-49fb2d57-25f47152.mp3],CardType::Sentence
 v/]H9n*B#*,Han går ofte i biografen med hende.,He often goes to the movies together with her.,[ 23 43 211 4 880 17 91 ], [sound:googletts-13cf273d-d995aa5f-d84170e9-ef0ec7ab-642e976e.mp3],CardType::Sentence
-rmu#Ni[xpk,Jeg havde ikke held med at finde hans hus.,I failed in finding his house.,[ 11 60 5 1087 17 3 188 72 214 ], [sound:googletts-f9a8b560-914b1f31-4a6668bd-00a72bda-d3d1ceab.mp3],CardType::Sentence
+rmu#Ni[xpk,Jeg havde ikke held med at finde hans hus.,I had no luck in finding his house.,[ 11 60 5 1087 17 3 188 72 214 ], [sound:googletts-f9a8b560-914b1f31-4a6668bd-00a72bda-d3d1ceab.mp3],CardType::Sentence
 xZ-tk}*oh^,Jeg gør det aldrig igen.,I'll never do it again.,[ 11 138 12 61 706 ], [sound:googletts-61bbc787-6660f7fb-a320cd22-e8626df8-2ca066e8.mp3],CardType::Sentence
-it3yXW@nQW,Hun har smukke øjne blå.,She has beautiful blue eyes.,[ 39 6 295 452 623 ], [sound:googletts-e3b5d2c6-83d7ae66-f0447499-b991f6cb-dade771c.mp3],CardType::Sentence
+it3yXW@nQW,Hun har smukke blå øjne.,She has beautiful blue eyes.,[ 39 6 295 452 623 ],[sound:googletts-1b032634-c148ea70-a48be720-453bca17-8160048a.mp3],CardType::Sentence
 tD7dJS/mwH,Du kender vejen.,You know the way.,[ 7 110 528 ], [sound:googletts-c9c39946-244b6c4d-ddaf415c-5b2a8ae1-716db4e2.mp3],CardType::Sentence
 K?O$>g#d=*,Jeg går i seng!,I'm going to bed!,[ 11 43 4 576 ], [sound:googletts-81db901f-a0271a05-3a547794-e1349533-0a60a726.mp3],CardType::Sentence
 inC^IA3<_s,Hun så hende aldrig igen.,She never saw her again.,[ 39 21 91 61 706 ], [sound:googletts-0ea04a37-c763324d-b456d750-be8ae9c1-e14199a6.mp3],CardType::Sentence
@@ -1898,7 +1898,7 @@ l5&LE~jBj%,Lidt højere.,A little louder.,[ 225 653 ], [sound:googletts-2ee7af85
 C&t[Y$So;!,Min far skulle til at gå da telefonen ringede.,My father was about to leave when the phone rang.,[ 25 142 125 8 3 77 95 833 541 ], [sound:googletts-6fff80d2-dee42a45-680eb656-bf3f8b00-929445e4.mp3],CardType::Sentence
 lBU!@g2:b=,Ret mig hvis jeg tager fejl.,Correct me if I'm wrong.,[ 600 19 185 11 66 504 ], [sound:googletts-e5ea0ef1-f2b6fe1d-018fb565-f7c1213a-5ca6012f.mp3],CardType::Sentence
 vv4_n02I4+,Vi er en familie på fem.,We are a family of five.,[ 46 1 2 817 9 173 ], [sound:googletts-67965562-248e3096-26d9cdcf-9d8f9d0c-db316fe3.mp3],CardType::Sentence
-O6=UpA~I7M,Du tager fuldstændig fejl.,You are quite in the wrong.,[ 7 66 426 504 ], [sound:googletts-aab85961-685a9dca-1a40ee11-9cadb853-0f7f791a.mp3],CardType::Sentence
+O6=UpA~I7M,Du tager fuldstændig fejl.,You are completely wrong.,[ 7 66 426 504 ], [sound:googletts-aab85961-685a9dca-1a40ee11-9cadb853-0f7f791a.mp3],CardType::Sentence
 OoqPqUEg.(,Hans forældre hjalp enhver der bad om deres hjælp.,His parents helped whoever asked for their help.,[ 72 428 434 379 28 266 22 193 960 ], [sound:googletts-eaaf6311-851f9850-fef83944-463eecb3-394edd4f.mp3],CardType::Sentence
 z=~bYgXIv@,Jeg håber at du har det sjovt.,I hope you are having fun.,[ 11 265 3 7 6 12 801 ], [sound:googletts-214e2b0c-770ac051-ca2872c4-ebab3ced-6c9b6c26.mp3],CardType::Sentence
 G<xqDizxZ<,"Gud er død, og vi har dræbt ham.","God is dead, and we have killed him.",[ 549 1 640 16 46 6 254 47 ], [sound:googletts-995f681e-a6968411-50449100-3c2eb6b1-a49e2f15.mp3],CardType::Sentence
@@ -1936,7 +1936,7 @@ C2k-Sz%?qS,Hvad leder du efter?,What are you looking for?,[ 38 634 7 105 ], [sou
 L><hQ1HOws,Min onkel gav mig en gave.,My uncle gave me a present.,[ 25 540 137 19 2 537 ], [sound:googletts-beb6eca9-338ce45c-374112c0-d1b98975-38e15353.mp3],CardType::Sentence
 Jz/@{it5v~,Godt spørgsmål.,Good question!,[ 78 516 ], [sound:googletts-3cb6806c-7fbbc1a9-f97dcd18-6d718efb-ac69fba2.mp3],CardType::Sentence
 :mb^1]x-L,Godt spørgsmål!,Good question!,[ 78 516 ], [sound:googletts-3c708da1-f18be899-67cf9261-86ce2352-8c01e4ce.mp3],CardType::Sentence
-bpv[-&4.KG,Må jeg bede om en kop kaffe mere?,I'd like to have another cup of coffee.,[ 102 11 947 22 2 382 221 120 ], [sound:googletts-c7277732-7273a474-251c5941-5a944bdd-71a24a23.mp3],CardType::Sentence
+bpv[-&4.KG,Må jeg bede om en kop kaffe mere?,May I ask for another cup of coffee?,[ 102 11 947 22 2 382 221 120 ], [sound:googletts-c7277732-7273a474-251c5941-5a944bdd-71a24a23.mp3],CardType::Sentence
 i_TXg|A5cw,"Jeg tror, jeg forstod.",I think I understood.,[ 11 74 11 617 ], [sound:googletts-bd6d6f1c-55808d24-bcbc6e8f-2c6eeba9-16586fd3.mp3],CardType::Sentence
 I^Z|f1q|6r,Han rejste sig og gik.,He got up and went away.,[ 23 741 48 16 134 ], [sound:googletts-52ba0b40-d7375f31-eb7f8ff2-eb1a0063-66425508.mp3],CardType::Sentence
 na7sw0t}>b,Jeg har brug et værelse til to personer.,I need a room for two people.,[ 11 6 109 15 422 8 44 813 ], [sound:googletts-5ba24527-205bae06-7b4f7753-90f60271-4d5c2fa0.mp3],CardType::Sentence
@@ -1948,7 +1948,7 @@ zR}unK2yl%,Det glæder mig at se dig igen.,I'm glad to see you again.,[ 12 419 1
 hu>&Z`?%B=,Det hus tilhører ham.,That house belongs to him.,[ 12 214 678 47 ], [sound:googletts-2fd5413f-45800834-f8b9c900-833548ca-660ac06f.mp3],CardType::Sentence
 "K5hYY0;{,a",Det var begyndt at regne.,It had started to rain.,[ 12 18 366 3 574 ], [sound:googletts-f33801ac-9ca88870-365aa3a5-7fbc51a4-4fa69586.mp3],CardType::Sentence
 "I,=jfxJw|7",Hun løj overfor mig.,She lied to me.,[ 39 620 320 19 ], [sound:googletts-5465ccf6-03203e4f-c6eaea57-67a82223-1208db43.mp3],CardType::Sentence
-u%!F~)W=~;,Skal vi tage en drink på vej hjem?,Want to grab a drink on the way home?,[ 79 46 101 2 957 9 286 311 ], [sound:googletts-e7422374-119431bd-1e4ee737-24f31759-dcba3de9.mp3],CardType::Sentence
+u%!F~)W=~;,Skal vi tage en drink på vej hjem?,Shall we grab a drink on the way home?,[ 79 46 101 2 957 9 286 311 ], [sound:googletts-e7422374-119431bd-1e4ee737-24f31759-dcba3de9.mp3],CardType::Sentence
 e`ZN2]1qK*,Maria bruger en masse penge på tøj.,Maria spends a lot of money on clothes.,[ 918 243 2 410 201 9 365 ], [sound:googletts-e0bcdc23-af33bbed-a2700eeb-79fd36d2-120e96ad.mp3],CardType::Sentence
 bj})]^u(ib,Jeg kan lide at skrive sange på fransk.,I like to write songs in French.,[ 11 13 33 3 136 1054 9 100 ], [sound:googletts-369c470c-9c7755d3-bf33541f-3ea2570e-188c80cb.mp3],CardType::Sentence
 hvIGKkOey&,Hader du stadigvæk fransk?,Do you still hate French?,[ 161 7 679 100 ], [sound:googletts-d1dd280a-a47a43eb-c0c0ae32-3a7489e2-02f08601.mp3],CardType::Sentence
@@ -1960,7 +1960,7 @@ yLz.o4q$TP,Hvorfor spørger du mig om dette?,Why are you asking me this?,[ 333 7
 lknW3.bcl6,Hun bor sammen med sin kæreste.,She lives with her boyfriend.,[ 39 67 383 17 32 692 ], [sound:googletts-b7fcb2c1-58337e48-56d1d200-3d7375cf-77ccfcac.mp3],CardType::Sentence
 DGJ#G|Rgq|,De æbler er meget store.,They are very big apples.,[ 37 660 1 29 310 ], [sound:googletts-40450afb-117d6839-84f431d1-1f71ec1b-c335b084.mp3],CardType::Sentence
 "HlN,H^~Lm/",Vi valgte hende til at være vores leder.,We chose her to be our leader.,[ 46 657 91 8 3 40 130 634 ], [sound:googletts-c8925c6c-39ebb412-aa5ec208-bb0e2008-3a4dfe85.mp3],CardType::Sentence
-t{Sm:z88f.,Vores hund er løbet væk.,Our dog has gone away.,[ 130 127 1 673 425 ], [sound:googletts-85e9022c-65b33618-f413dab0-59eecc28-b043594c.mp3],CardType::Sentence
+t{Sm:z88f.,Vores hund er løbet væk.,Our dog has ran away.,[ 130 127 1 673 425 ], [sound:googletts-85e9022c-65b33618-f413dab0-59eecc28-b043594c.mp3],CardType::Sentence
 eKl;|zPvb,Har jeg ikke ret?,Am I not right?,[ 6 11 5 600 ], [sound:googletts-e82380ce-d7fa8322-e8ea7d65-f4feb253-65862a40.mp3],CardType::Sentence
 k}m-y|k?(e,Hvad vil du spørge mig om?,What is it you want to ask me?,[ 38 20 7 822 19 22 ], [sound:googletts-a36be87d-8daf77cc-2656c6e5-b8836a0c-0291569c.mp3],CardType::Sentence
 nGQU#L5]tt,Tom vidste ikke hvor pengene kom fra.,Tom didn't know where the money came from.,[ 80 186 5 93 992 96 36 ], [sound:googletts-034abc9f-4102b6b3-cf710dea-dc659790-012724cc.mp3],CardType::Sentence
@@ -2058,7 +2058,7 @@ I9E_Bbv*)j,Jeg elsker at gå i biografen.,I love going to the cinema.,[ 11 57 3 
 pgV/U_.vQ*,Hvorfor er himlen blå?,Why is the sky blue?,[ 333 1 655 623 ], [sound:googletts-e9b51a65-ed24ca40-f392c187-4efe3aeb-6a29d89d.mp3],CardType::Sentence
 qCs-&/]6)|,Vil du være klar klokken halv tre?,Will you be ready by 2:30?,[ 20 7 40 555 123 719 103 ], [sound:googletts-821ba6fe-e829bb4e-2d1de7e0-bf0454e1-f2eb3178.mp3],CardType::Sentence
 x2K8$8B1tu,Han svarede enhver sit.,He paid everyone his due.,[ 23 697 379 108 ], [sound:googletts-a88721b2-422eed5c-16e25e49-18f05b3f-bb979fbd.mp3],CardType::Sentence
-h*s#2pMnKx,Jeg rejser gerne.,I like traveling.,[ 11 632 189 ], [sound:googletts-97ce8b85-c304a558-32868e3b-d413f76d-fd145c4a.mp3],CardType::Sentence
+h*s#2pMnKx,Jeg rejser gerne.,I gladly travel.,[ 11 632 189 ], [sound:googletts-97ce8b85-c304a558-32868e3b-d413f76d-fd145c4a.mp3],CardType::Sentence
 Inrtg>[&WD,Han skrev mange sætninger på esperanto.,He wrote many phrases in Esperanto.,[ 23 165 51 627 9 561 ], [sound:googletts-50bd4623-020e6b6d-ac3b0133-e4a666bd-f7fe8f29.mp3],CardType::Sentence
 leov)?[3<t,Kyssede du ham?,Did you kiss him?,[ 559 7 47 ], [sound:googletts-86102ac5-e64fe1bf-b899c7e5-a74cb267-a8fc07c7.mp3],CardType::Sentence
 GV?wPj&nh3,Denne by kaldes det japanske Danmark.,This city is called the Japanese Denmark.,[ 52 368 478 12 470 904 ], [sound:googletts-c761f367-9685b16b-f5385cb3-d92d3dca-bdd0fb6b.mp3],CardType::Sentence
@@ -2168,7 +2168,7 @@ d-sY?n1x}b,"Jeg drikker ikke, og jeg ryger heller ikke.",I neither drink nor smo
 I]21Zj]`7%,Gør det her ondt?,Does this hurt?,[ 138 12 50 744 ], [sound:googletts-cb257223-8bbbb012-5ea1687a-38cd84d4-e277f6c3.mp3],CardType::Sentence
 N0&lC!e[]T,Dette er det største hotel i denne by.,This is the biggest hotel in this city.,[ 63 1 12 585 752 4 52 368 ], [sound:googletts-0fcbbc15-5aebe135-f1c2b486-8fcb3cb1-bdb65fad.mp3],CardType::Sentence
 kE+.rwO8Na,Min bror spiller guitar.,My brother plays guitar.,[ 25 187 215 820 ], [sound:googletts-f04b0275-4270c075-b117df21-eed18be9-be1e24f2.mp3],CardType::Sentence
-e^U~&0&++(,Katten sover på en stol.,The cat is sleeping in a chair.,[ 429 389 9 2 787 ], [sound:googletts-def3addd-83d8a654-ebc5a48a-1b67a01b-9e754de3.mp3],CardType::Sentence
+e^U~&0&++(,Katten sover på en stol.,The cat is sleeping on a chair.,[ 429 389 9 2 787 ], [sound:googletts-def3addd-83d8a654-ebc5a48a-1b67a01b-9e754de3.mp3],CardType::Sentence
 Gp^H.u)/u4,Denne dukke er min eneste ven.,This puppet is my only friend.,[ 52 1011 1 25 191 209 ], [sound:googletts-938edbad-396c6a79-db008468-4668285a-503a69fd.mp3],CardType::Sentence
 t-=*N$a:&D,Jeg er nødt til at gå selv om det regner skomagerdrenge.,I have to go even if it rains cats and dogs.,[ 11 1 226 8 3 77 255 22 12 318 1476 ], [sound:googletts-b2a76bc6-3e7731b1-ded75b64-3ea7aee4-e12c4842.mp3],CardType::Sentence
 nU%-SXpYrx,Vi er nødt til at finde et nyt marked for disse produkter.,We have to find a new market for these products.,[ 46 1 226 8 3 188 15 507 1358 10 200 ], [sound:googletts-87c931eb-1287356d-0aedbae0-5d86c7d4-935714a3.mp3],CardType::Sentence
@@ -2210,7 +2210,7 @@ iUw_c{i^oZ,Hvad er det længste tyske ord?,What's the longest German word?,[ 38 
 oS[J7`gS)W,"Gør det igen, ligesom før.","Do it again, just like before.",[ 138 12 706 595 179 ], [sound:googletts-35cd93f3-906b3e00-db764230-43d832c9-c9635584.mp3],CardType::Sentence
 yAQ-8b^dKt,Vi er alle enige med dig.,We all agree with you.,[ 46 1 70 968 17 31 ], [sound:googletts-4881d1a6-ac66f08d-258b4612-fbd987e8-748fe769.mp3],CardType::Sentence
 D1OVGKiA8B,Kom nogen til skade?,Did anybody get hurt?,[ 96 124 8 769 ], [sound:googletts-b37d2da2-d56bb429-6df17f6c-ffe84301-56a1cd2e.mp3],CardType::Sentence
-3H/1L;|7D,Hun er den eneste veninde jeg har.,She is the only friend I have.,[ 39 1 24 191 1107 11 6 ], [sound:googletts-ad4fa0c5-e510a8b7-80ec7351-b422ac61-1dbd9dd4.mp3],CardType::Sentence
+3H/1L;|7D,Hun er den eneste veninde jeg har.,She is the only girl-friend I have.,[ 39 1 24 191 1107 11 6 ], [sound:googletts-ad4fa0c5-e510a8b7-80ec7351-b422ac61-1dbd9dd4.mp3],CardType::Sentence
 r]x_:4WdwP,Jeg ved præcis hvordan du føler dig.,I know exactly how you feel.,[ 11 26 1025 278 7 346 31 ], [sound:googletts-76c08ba9-216b8da0-9ca35299-248413c5-86641799.mp3],CardType::Sentence
 C#u9/AB*5$,Jeg købte to flasker mælk.,I bought two bottles of milk.,[ 11 106 44 755 436 ], [sound:googletts-45cef4ed-5ef47e90-c053c9ec-6a0c1c63-d0baf587.mp3],CardType::Sentence
 zmKx|}s=aV,Jeg trænger til en ny cykel.,I need a new bicycle.,[ 11 995 8 2 174 273 ], [sound:googletts-31ab6471-2a24f216-140cc3ac-6aeb6c93-643d104d.mp3],CardType::Sentence
@@ -2321,7 +2321,7 @@ BPiy)Q0Et_,Jeg har kun brugt den en gang.,I've only used it once.,[ 11 6 85 1169
 QyZU:D2~CL,Jeg føler mig så ensom.,I feel so lonely.,[ 11 346 19 21 840 ], [sound:googletts-8738e2db-d39b1675-045f1cc4-f4e53057-ee89eecb.mp3],CardType::Sentence
 B0{ZY&kS>w,Hun var klædt i sort.,She was dressed in black.,[ 39 18 796 4 397 ], [sound:googletts-cd1f8fc5-370fe657-864a987c-a7f750b6-bb46fe85.mp3],CardType::Sentence
 f&ou_h<Ir_,Hun er gået for vidt.,She went too far.,[ 39 1 348 10 838 ], [sound:googletts-8e1f74df-ac29feb8-d310da28-09ccb2a8-f739f89e.mp3],CardType::Sentence
-OdvVSGyU&K,Hvorfor tog du ikke imod hans tilbud?,Why did you turn down his offer?,[ 333 55 7 5 457 72 1010 ], [sound:googletts-42c5042d-fe4f79e2-c862f2c2-6dba0688-296ebc69.mp3],CardType::Sentence
+OdvVSGyU&K,Hvorfor tog du ikke imod hans tilbud?,Why didn't you accept his offer?,[ 333 55 7 5 457 72 1010 ], [sound:googletts-42c5042d-fe4f79e2-c862f2c2-6dba0688-296ebc69.mp3],CardType::Sentence
 w*77;3I]Ul,Bestilte du bogen?,Did you order the book?,[ 835 7 417 ], [sound:googletts-9d7205ec-3dd01418-f8617a72-bd5bd92b-863e44b3.mp3],CardType::Sentence
 iU9iD(k@LG,Jeg har kun brugt det en gang.,I've only used it once.,[ 11 6 85 1169 12 2 113 ], [sound:googletts-5a71356f-50617802-9cb4bd1c-35937ea7-5fe4d7b4.mp3],CardType::Sentence
 g{1XN:(pT|,Denne by er kold og ensom uden dig.,This city is cold and lonely without you.,[ 52 368 1 712 16 840 143 31 ], [sound:googletts-98e73d09-3593c0b3-28f844b1-65c51a53-b439e6e2.mp3],CardType::Sentence
@@ -2453,7 +2453,7 @@ nb:is(WA%f,Og hvor kommer pengene fra?,And where is the money coming from?,[ 16 
 jW372}9&t|,Alle er enige med dig.,Everybody agrees with you.,[ 70 1 968 17 31 ], [sound:googletts-7abca2b8-caf9b9ea-81f553ff-fcaa86c2-a0d7cb31.mp3],CardType::Sentence
 C*WshKj|M`,Hun kommer måske.,She might come.,[ 39 71 731 ], [sound:googletts-eacf4708-87422a43-2eabc107-9a29e11e-942f983e.mp3],CardType::Sentence
 vT9/-3MjQ_,Hun er en vidunderlig hustru som gav mig to smukke børn.,She is a wonderful wife who gave me two beautiful children.,[ 39 1 2 979 1194 27 137 19 44 295 240 ], [sound:googletts-98e9b818-5b5a8ca1-1da55644-f503e668-ce3286d3.mp3],CardType::Sentence
-MwI@NVqh64,Bussen kom to minutter for tidlig.,The bus was two minutes early.,[ 964 96 44 350 10 642 ], [sound:googletts-6190cce6-a4b29038-208c8ef0-4cda9049-8175a9d8.mp3],CardType::Sentence
+MwI@NVqh64,Bussen kom to minutter for tidlig.,The bus came two minutes too early.,[ 964 96 44 350 10 642 ], [sound:googletts-6190cce6-a4b29038-208c8ef0-4cda9049-8175a9d8.mp3],CardType::Sentence
 H[qnGW4Lyr,Hvor vil du hen til sommer?,Where do you want to go this summer?,[ 93 20 7 237 8 1159 ], [sound:googletts-2071d137-de00795e-2489ce63-2585648b-aa31fa1d.mp3],CardType::Sentence
 ce?RpEL&ii,Jeg kan ikke ryge.,I can't smoke.,[ 11 13 5 815 ], [sound:googletts-a3cc4f52-880ec24e-3e2b5b48-36e2f626-5efe06c8.mp3],CardType::Sentence
 y+X>>6f+z_,Alt vil være perfekt.,Everything will be perfect.,[ 118 20 40 865 ], [sound:googletts-41fccb11-d9902863-91a3e150-195807bc-19472fe2.mp3],CardType::Sentence
@@ -2588,7 +2588,7 @@ b3^?oh&LyZ,For at gøre tingene værre begyndte det at regne.,"To make matters w
 qo*Mao2SQj,Hvad mener du?,What do you mean?,[ 38 760 7 ], [sound:googletts-c1fd0560-3d019356-863cd42e-4fd8c498-f64dfffa.mp3],CardType::Sentence
 y/}CcJxZq0,Løb ikke så hurtigt.,Don't run so fast.,[ 341 5 21 997 ], [sound:googletts-004d933a-606c702a-30dd2335-cccb35d4-da7f2798.mp3],CardType::Sentence
 L`rm;|k#!p,Tak for din gave.,Thank you for your present.,[ 816 10 30 537 ], [sound:googletts-e1007b0d-3f554201-4848532b-67769ed6-3361d5ab.mp3],CardType::Sentence
-C&hY>u%$~l,I toget blev mit kamera stjålet.,I had got my camera stolen in the train.,[ 4 762 35 62 596 713 ], [sound:googletts-5c1f65ae-4b3674c2-6a798353-21d2d96a-2815c49e.mp3],CardType::Sentence
+C&hY>u%$~l,I toget blev mit kamera stjålet.,My camera stolen in the train.,[ 4 762 35 62 596 713 ], [sound:googletts-5c1f65ae-4b3674c2-6a798353-21d2d96a-2815c49e.mp3],CardType::Sentence
 N#g~61cBea,Den brune hat der er gammel.,That brown hat is old.,[ 24 1136 443 28 1 150 ], [sound:googletts-7f2e95a6-dd0015e5-73f35e94-d27de476-62425a41.mp3],CardType::Sentence
 y3]YDhW0;%,Lyset gik ud af sig selv.,The light went out by itself.,[ 1284 134 58 14 48 255 ], [sound:googletts-51e2a658-b5696865-8d4057aa-b3769455-d4dbee4f.mp3],CardType::Sentence
 C0AnRZIHwR,Mit arbejde er at undervise i engelsk.,My job is teaching English.,[ 62 210 1 3 1434 4 276 ], [sound:googletts-e168b4da-9dbceeab-5cd4f9b2-8b3584a9-6bc3216d.mp3],CardType::Sentence
@@ -2748,7 +2748,7 @@ flcYD;alOt,Det var næsten middag da jeg vågnede op.,It was almost noon when I 
 "H(]85~,eP]",Da jeg vågnede op var det næsten middag.,It was almost noon when I woke up.,[ 95 11 893 68 18 12 133 1123 ], [sound:googletts-b845291b-aee05fc3-3ca212d0-13bc4248-6a671d0a.mp3],CardType::Sentence
 "lz#nY,!2.R","Hvis vi skulle leve på månen, hvor stor ville jorden så se ud?","If we were to live on the moon, how large would the earth look?",[ 185 46 125 247 9 1960 93 135 65 647 21 ], [sound:googletts-ecc6e8b7-f297d2ec-32294cc5-258f0ca4-d5bd54e8.mp3],CardType::Sentence
 F;.2hjQ.h|,Det er volapyk for mig.,It's Greek to me.,[ 12 1 1129 10 19 ], [sound:googletts-2d11ffd3-4741a6f1-5376aa48-408be64b-1610b422.mp3],CardType::Sentence
-oeYdP:>4Hq,"Ved Gud i himlen, jeg lyver aldrig.","By God, I never tell a lie.",[ 26 549 4 655 11 1065 61 ], [sound:googletts-a2007e63-1798cf71-5a26c58a-9ff99146-516277f9.mp3],CardType::Sentence
+oeYdP:>4Hq,"Ved Gud i himlen, jeg lyver aldrig.","By God in heaven, I never tell a lie.",[ 26 549 4 655 11 1065 61 ], [sound:googletts-a2007e63-1798cf71-5a26c58a-9ff99146-516277f9.mp3],CardType::Sentence
 pq:UNu#WwC,Jeg foretrækker stadigvæk at skrive breve i hånden.,I still prefer to write letters by hand.,[ 11 336 679 3 136 1196 4 711 ], [sound:googletts-403c5e90-97b5f209-18068911-10e08427-f951157f.mp3],CardType::Sentence
 O.}j{c{hs/,Vores høner lagde mange æg i går.,Our hens laid a lot of eggs yesterday.,[ 130 1424 289 51 538 4 43 ], [sound:googletts-7c684dd1-65d92d78-4a54707a-506a87d7-25384ecf.mp3],CardType::Sentence
 QVrKa*p:.%,Hun beundrer John for hans mod.,She admires John for his courage.,[ 39 1104 667 10 72 197 ], [sound:googletts-3e5411f6-9b44fa9f-b9c53a30-523950a9-33592697.mp3],CardType::Sentence
@@ -2908,7 +2908,7 @@ qGMYp~E~v1,Venter I på os ved stationen?,Will you wait for us at the station?,[
 hB*{Xr|dTs,"Med en god bog i hænderne, behøver du aldrig at føle dig ensom.",With a good book in your hands you need never feel lonely.,[ 17 2 84 140 4 1548 284 7 61 3 1176 ], [sound:googletts-0851da18-035dc622-d831d9ac-c2255759-c248c44c.mp3],CardType::Sentence
 s`JLNpuQ}I,Hvornår har du sidst vasket bilen?,When was the last time you washed the car?,[ 1383 6 7 531 694 780 ], [sound:googletts-6aa51bea-f89d19ab-b9931490-1cbcc322-ff6e7184.mp3],CardType::Sentence
 DRh](W-uak,Jeg tror han lyver.,I think he's lying.,[ 11 74 23 1065 ], [sound:googletts-7adb2a2e-27424a20-2768d61e-7781e90c-888ba3d8.mp3],CardType::Sentence
-CIu6Enp}R~,De kørte til stationen i bil.,They went to the station by car.,[ 37 448 8 1389 4 152 ], [sound:googletts-d027f476-b8cb9f3f-c482a0f9-834d4e0e-e32a7676.mp3],CardType::Sentence
+CIu6Enp}R~,De kørte til stationen i bil.,They drove to the station by car.,[ 37 448 8 1389 4 152 ], [sound:googletts-d027f476-b8cb9f3f-c482a0f9-834d4e0e-e32a7676.mp3],CardType::Sentence
 m$`h.nCP4+,Jeg vil gøre det ved første lejlighed.,I will do it on the first occasion.,[ 11 20 115 12 26 129 1628 ], [sound:googletts-c8d76bfc-7126d94b-bbd4ba2b-b558eaeb-4940d4a0.mp3],CardType::Sentence
 k?SDN*bbIF,Regner det meget i Tyskland?,Does it rain much in Germany?,[ 318 12 29 4 1298 ], [sound:googletts-81c94b5b-fcf26970-2308b5ee-48762426-f36716ef.mp3],CardType::Sentence
 "F{i!Ost/.,",Tom kan lide at se Mary danse.,Tom likes to watch Mary dance.,[ 80 13 33 3 54 75 1621 ], [sound:googletts-78a0ae00-d25b0524-8a238169-15a93281-77161d0c.mp3],CardType::Sentence
@@ -2966,7 +2966,7 @@ wW$ElZq<mm,Han drikker for meget øl.,He drinks too much beer.,[ 23 184 10 29 12
 jf#JXo|<Sz,Jeg foretrækker et hotel tæt på lufthavnen.,I prefer a hotel by the airport.,[ 11 336 15 752 508 9 1448 ], [sound:googletts-3b4bafdd-d2c342e3-444abfb2-dc42ee06-c226a0de.mp3],CardType::Sentence
 lFT_nQe_AB,Om vinteren har vi meget sne.,We have a lot of snow in the winter.,[ 22 1083 6 46 29 754 ], [sound:googletts-a13edfe0-114f4f04-b9ba25ab-1d83f9b9-652ede6c.mp3],CardType::Sentence
 q_J19]leE/,Vi har meget sne om vinteren.,We have a lot of snow in the winter.,[ 46 6 29 754 22 1083 ], [sound:googletts-e1ea6915-5d3a2f7b-27508c99-d849dc3e-d0c2c031.mp3],CardType::Sentence
-tpYTVXAV2P,Vi ses igen.,We will meet again.,[ 46 1174 706 ], [sound:googletts-ed4ff6c9-c724953b-50a22b73-b9b4e64b-c2218fe8.mp3],CardType::Sentence
+tpYTVXAV2P,Vi ses igen.,See you again.,[ 46 1174 706 ], [sound:googletts-ed4ff6c9-c724953b-50a22b73-b9b4e64b-c2218fe8.mp3],CardType::Sentence
 N$xXy>9Vp6,Jeg drikker ikke meget øl.,I don't drink much beer.,[ 11 184 5 29 1299 ], [sound:googletts-4435e150-02ac0280-de4e8cdb-bfc597ec-f7c63592.mp3],CardType::Sentence
 oHoG5_oogI,Du må bestemme dig og det straks.,"You must make up your mind, and that at once.",[ 7 102 1242 31 16 12 773 ], [sound:googletts-ee34825e-94dfd762-f7f12698-5def5ae9-14e6ac8a.mp3],CardType::Sentence
 G3y!n4%nWF,Er der noget kaffe i køkkenet?,Is there any coffee in the kitchen?,[ 1 28 41 221 4 1491 ], [sound:googletts-7d335f34-266757d8-a099852d-524dd746-196b98cf.mp3],CardType::Sentence
@@ -3042,7 +3042,7 @@ GhRoNEt1<),Jeg gik til fods i skole.,I walked to school.,[ 11 134 8 1572 4 300 ]
 K}i&[+TBu7,Hvornår tager du af sted?,When will you leave?,[ 1383 66 7 14 303 ], [sound:googletts-eb2bd213-d9448efc-ba8ede8d-be0a764b-4aa85564.mp3],CardType::Sentence
 jk2GdzU5Z$,Jeg tog det foto for en uge siden.,I took that photo a week ago.,[ 11 55 12 1767 10 2 517 177 ], [sound:googletts-9ec82722-0920db9b-e96b50b0-c2f215b0-78cf854e.mp3],CardType::Sentence
 nGJsI^GB/?,Det er farligt at svømme om natten.,Swimming at night is dangerous.,[ 12 1 511 3 423 22 1618 ], [sound:googletts-19e59c4c-80888787-ee5ef4e6-52a803e3-9acaee8d.mp3],CardType::Sentence
-OFh:IAgQcl,Tom synes ikke at filmen er interessant.,Tom didn't think that movie was interesting.,[ 80 217 5 3 1442 1 700 ], [sound:googletts-cd993c44-43a5bc50-013ac051-d4fb71a8-8bc36cee.mp3],CardType::Sentence
+OFh:IAgQcl,Tom synes ikke at filmen er interessant.,Tom doesn't think the movie is interesting.,[ 80 217 5 3 1442 1 700 ], [sound:googletts-cd993c44-43a5bc50-013ac051-d4fb71a8-8bc36cee.mp3],CardType::Sentence
 h44mg?b?18,Du kan beholde bogen.,You may keep the book.,[ 7 13 1245 417 ], [sound:googletts-ff496459-d4cffd5d-ad0dfd4b-a7f8679b-2a1fb765.mp3],CardType::Sentence
 "MV.T,:~fo@",Han er en god taber.,He is a good loser.,[ 23 1 2 84 1317 ], [sound:googletts-80f7a9aa-d9c9bee7-266e1281-28364acd-d2761a90.mp3],CardType::Sentence
 wy3}9Ix$=.,Dagene bliver længere og længere.,The days are getting longer and longer.,[ 1473 86 316 16 316 ], [sound:googletts-57cd2348-97898d19-4bd02a57-7568a7f1-b69c647c.mp3],CardType::Sentence
@@ -3324,13 +3324,13 @@ weks~%k:Z>,Nøglen ligger på bordet.,The key is on the table.,[ 890 156 9 1171 
 AB[7!wTOEM,Kan du holde på en hemmelighed?,Can you keep a secret?,[ 13 7 202 9 2 1754 ], [sound:googletts-71ebf6e9-d9218419-e19b16f5-f7aaa804-9c444a2f.mp3],CardType::Sentence
 G81ev)vb)Z,Vores høns har lagt en masse æg i går.,Our hens laid a lot of eggs yesterday.,[ 130 2277 6 688 2 410 538 4 43 ], [sound:googletts-338226c6-616afe62-a3691f9d-b47c9be1-1b884b27.mp3],CardType::Sentence
 cW=;xmJE.L,Jeg er meget skuffet over dig.,I'm very disappointed in you.,[ 11 1 29 1738 69 31 ], [sound:googletts-ffc0239b-329618dd-b660c987-2b5b8b91-c5e05499.mp3],CardType::Sentence
-nY}z$]_w}$,"Jeg har ret, ikke sandt?","I'm right, aren't I?",[ 11 6 600 5 1395 ], [sound:googletts-d529ca9e-532176bd-51320ac5-4c2abf75-33cbe926.mp3],CardType::Sentence
+nY}z$]_w}$,"Jeg har ret, ikke sandt?","I'm correct, right?",[ 11 6 600 5 1395 ], [sound:googletts-d529ca9e-532176bd-51320ac5-4c2abf75-33cbe926.mp3],CardType::Sentence
 EF=)6tth+.,Hun forstår rigtignok at lave mad.,She really knows how to cook.,[ 39 175 1581 3 182 758 ], [sound:googletts-c59afd14-442c92ed-3d2739e4-62b449f1-954ef2cc.mp3],CardType::Sentence
 F4H#{1_zA$,Ikke alle læger tjener en masse penge.,Not all doctors make a lot of money.,[ 5 70 2122 395 2 410 201 ], [sound:googletts-56d61b9f-8c75c7ab-1876d9c1-21b6aa80-8715e939.mp3],CardType::Sentence
 "dC,qu}9{B7",Han går sig en tur.,He is taking a walk.,[ 23 43 48 2 1516 ], [sound:googletts-f92ec691-6359b045-a5816a7d-e73ded3b-fb68e4b5.mp3],CardType::Sentence
 sj;AJ:<DCp,Hun er kort og fed.,She's short and fat.,[ 39 1 530 16 1490 ], [sound:googletts-7be7fe62-2a86273a-cfef6b5b-fbab3af0-1294973b.mp3],CardType::Sentence
 C;FBy=RX.g,Jeg vil have en blå kage.,I want a blue cake.,[ 11 20 53 2 623 1563 ], [sound:googletts-cf14e0f7-12742fcb-015b950b-ccec5140-bc44af6c.mp3],CardType::Sentence
-o0@TqCBt}&,Vi vil snart vide sandheden.,It won't be long before we know the truth.,[ 46 20 196 297 1629 ], [sound:googletts-85ea81f6-b86cc273-5c7d9bcd-b32a9b7b-76e4b799.mp3],CardType::Sentence
+o0@TqCBt}&,Vi vil snart vide sandheden.,We will soon know the truth.,[ 46 20 196 297 1629 ], [sound:googletts-85ea81f6-b86cc273-5c7d9bcd-b32a9b7b-76e4b799.mp3],CardType::Sentence
 N[ME#C&[px,Denne sanger er meget populær blandt unge.,This singer is very popular with young people.,[ 52 1647 1 29 411 599 1044 ], [sound:googletts-b9827343-512c3445-c21eac22-706b2e98-657da842.mp3],CardType::Sentence
 n4~(yZA>%b,Jeg har hørt at en kvinde har stukket en mand ned for at have spist hendes frokost.,I heard that a woman stabbed a man for eating her lunch.,[ 11 6 228 3 2 345 6 2977 2 146 159 ], [sound:googletts-93b211e2-89093116-781f7f84-0d5c159e-75533f56.mp3],CardType::Sentence
 jgb.Wb!KF^,"En paraply er nyttig i let regn, men når det regner skomagerdrenge er en paraply ikke til megen hjælp.","An umbrella is useful in a mild rain, but when it rains cats and dogs an umbrella is of little help.",[ 2 553 1 2364 4 219 969 45 139 12 318 ], [sound:googletts-8f4d4bb4-1d28f1a1-11799f5e-b8095f28-651da760.mp3],CardType::Sentence
@@ -3345,7 +3345,7 @@ H|@UU)AY8s,Hun lånte min.,She borrowed mine.,[ 39 1109 25 ], [sound:googletts-8
 p0g(IlY{=r,En fugl kan flyve.,A bird can fly.,[ 2 641 13 1289 ], [sound:googletts-7bcae7ad-ff0f8a31-c6c4caa5-bb1ec261-d09d4486.mp3],CardType::Sentence
 ]Cn[lQWt,Hvornår kommer du tilbage?,When will you be back?,[ 1383 71 7 239 ], [sound:googletts-d6cf5725-3133915d-f599eb52-2fc35b1c-e6742430.mp3],CardType::Sentence
 ruRs{EvMs@,Børn elsker at lege på stranden.,Children love playing on the beach.,[ 240 57 3 644 9 1668 ], [sound:googletts-f75b97ee-d3621042-fa053ca2-63c3e539-d8ac8a50.mp3],CardType::Sentence
-e781Q:I*oY,Man kan kende et menneske på dets venner.,You can know a man by his friends.,[ 107 13 970 15 940 9 1479 604 ], [sound:googletts-fd01a49a-e0e8f418-c981ce09-01fad4c2-ff644901.mp3],CardType::Sentence
+e781Q:I*oY,Man kan kende et menneske på dets venner.,One can know a person by their friends.,[ 107 13 970 15 940 9 1479 604 ], [sound:googletts-fd01a49a-e0e8f418-c981ce09-01fad4c2-ff644901.mp3],CardType::Sentence
 x8w^vwaoMp,Filmen var interessant.,The movie was interesting.,[ 1442 18 700 ], [sound:googletts-5812dd58-dba67046-deeb486d-a47a798b-284313d4.mp3],CardType::Sentence
 iriH3r.X~b,Tom lagde sin pung på bordet.,Tom put his wallet on the table.,[ 80 289 32 1201 9 1171 ], [sound:googletts-ee79e54a-a5452997-18356980-3322df6d-34b4ea0c.mp3],CardType::Sentence
 C?H/Dl*J0],"I dag har jeg stirret på papirer dagen lang, og nu er jeg træt.",I stared at papers all day today and now I'm tired.,[ 4 87 6 11 1710 9 1711 433 271 16 160 ], [sound:googletts-1ef7a9ed-2806f352-0fa90d1a-a97f7df6-31bff9e1.mp3],CardType::Sentence
@@ -3418,7 +3418,7 @@ Q%S(*5mEbQ,Jeg er ikke sulten.,I'm not hungry.,[ 11 1 5 1333 ], [sound:googletts
 s!GqgI6g<R,Hun modtog elregningen i dag.,She received the electricity bill today.,[ 39 598 1565 4 87 ], [sound:googletts-29b80289-594d94cd-70a68abf-d82202fa-dc58e9b4.mp3],CardType::Sentence
 P;7shS}c6n,Disse stole er forskellige.,These chairs are different.,[ 200 1137 1 1059 ], [sound:googletts-963242c6-0ba94ba8-f44e072d-b61ea51e-20d5b51e.mp3],CardType::Sentence
 rqbO4>2@^l,Vi trøstede hinanden.,We consoled each other.,[ 46 1427 563 ], [sound:googletts-eaaec99c-42410775-c21238a6-59d42d6e-28d42226.mp3],CardType::Sentence
-KwMSsX%wMo,Vær så venlig at sætte jer.,"Sit down, please.",[ 1979 21 241 3 373 274 ], [sound:googletts-2d4388fb-3bc00149-1f49c95b-1bf60e06-228abd57.mp3],CardType::Sentence
+KwMSsX%wMo,Vær så venlig at sætte dig.,Be so kind as to sit down.,[ 1979 21 241 3 373 274 ],,CardType::Sentence
 Pxq%M*O4:$,Hun bagte en kage til mig.,She made me a cake.,[ 39 717 2 1563 8 19 ], [sound:googletts-d172e746-5b5e8d27-fc700dec-8b977755-b59c8f4d.mp3],CardType::Sentence
 yM7/7mtv9F,En gigantisk fugl kom flyvende imod ham.,A gigantic bird came flying toward him.,[ 2 1917 641 96 951 457 47 ], [sound:googletts-77f601a3-5efe5ec2-bd16447c-d1013410-25362d0f.mp3],CardType::Sentence
 LmBBs#yC]$,Jeg håber ikke jeg forstyrrer dig.,I hope I'm not disturbing you.,[ 11 265 5 11 1862 31 ], [sound:googletts-9e52c653-2b57abe2-4b7b0b46-875fef5d-3c587ea9.mp3],CardType::Sentence
@@ -3676,7 +3676,7 @@ q[DT6h^%%L,Søndag er ikke en almindelig dag for mig.,Sunday is not an ordinary 
 Mhm_LkJP6B,Kan du lide kinesisk mad?,Do you like Chinese food?,[ 13 7 33 1682 758 ], [sound:googletts-0f2b6615-f934cc5d-4a2b0bf6-eafc60f5-a9b2b867.mp3],CardType::Sentence
 Js7oCoG$+|,Tom vil have os til at montere fjernsynet på væggen.,Tom wants us to mount the TV on the wall.,[ 80 20 53 73 8 3 1211 1313 9 1704 ], [sound:googletts-cda9aab8-df890838-338ed5a3-deb70de4-e7afdbdb.mp3],CardType::Sentence
 pc:V?w.3CP,Folk siger at han aldrig dør.,People say he never dies.,[ 398 132 3 23 61 2202 ], [sound:googletts-0cba71de-a50d4154-84a32a82-f9355417-dce1e392.mp3],CardType::Sentence
-hOcwW&p]wd,Min mand slår mig ihjel.,My husband’s going to kill me.,[ 25 146 1081 19 1453 ], [sound:googletts-a63c74c4-945e07bd-72e73235-9bfacd05-6ba3b5e6.mp3],CardType::Sentence
+hOcwW&p]wd,Min mand vil slå mig ihjel.,My husband’s going to kill me.,[ 25 146 1081 19 1453 ],[sound:googletts-bd89ba99-48f0198e-c9586bce-9f145e96-f22ac03c.mp3],CardType::Sentence
 NcX%xvX/.,Det var en meget smuk blomst.,It was a very beautiful flower.,[ 12 18 2 29 322 2157 ], [sound:googletts-b8608979-f661a03c-9d1b9113-d0a7a196-0307e70c.mp3],CardType::Sentence
 K}4W[C/e9a,Jeg kan lide din ide.,I like your idea.,[ 11 13 33 30 1828 ], [sound:googletts-33ada9f0-94a5c2ca-0eb1eb5c-9e427a1d-4efabd3b.mp3],CardType::Sentence
 E+R9UV8k~1,Jeg ville gerne have batterier til dette apparat.,I would like batteries for this device.,[ 11 65 189 53 1882 8 63 1335 ], [sound:googletts-713ffa47-c4a5e5ba-cabf8c54-6406570c-77f0aac7.mp3],CardType::Sentence
@@ -3695,7 +3695,7 @@ eX_`C$Jgm~,Jeg kan bedre lide svag kaffe end stærk.,I like weak coffee better t
 mPzTnJS*ST,Han har lidt erfaring med at undervise.,He has little experience in teaching.,[ 23 6 225 1535 17 3 1434 ], [sound:googletts-92ffae0e-d63eff4c-b0b459d8-e93a2a80-4ccf60e7.mp3],CardType::Sentence
 lk+vbNPWA:,Han malte et billede af en hund.,He painted a picture of a dog.,[ 23 2462 15 293 14 2 127 ], [sound:googletts-f668e86d-bd275d1c-b8628c46-a048a693-d761ee42.mp3],CardType::Sentence
 mW.D&BTsp(,"Det er to år siden, jeg studerede medicin.",It has been two years since I studied medicine.,[ 12 1 44 92 177 11 1550 1677 ], [sound:googletts-997d266f-e67c46bb-60261f21-6a6c1680-a1ee47db.mp3],CardType::Sentence
-G2zzL.tiu{,Hun ønsker sin datter gift med en læge.,She wants to marry her daughter to a doctor.,[ 39 56 32 525 233 17 2 2726 ], [sound:googletts-04a9655b-9e4f28db-37c03869-ae823510-b9572f0c.mp3],CardType::Sentence
+G2zzL.tiu{,Hun ønsker sin datter gift med en læge.,She wants her daughter wed to a doctor.,[ 39 56 32 525 233 17 2 2726 ], [sound:googletts-04a9655b-9e4f28db-37c03869-ae823510-b9572f0c.mp3],CardType::Sentence
 Hk{eSz#^Sc,Jeg var sulten.,I was hungry.,[ 11 18 1333 ], [sound:googletts-226f35ac-07824dc2-0f6d0824-f6d21954-d94881ce.mp3],CardType::Sentence
 "fL5p6t}^x,",Hvor bed du dem?,Where did you bite them?,[ 93 1654 7 171 ], [sound:googletts-fda6dd66-aea8a374-820ad49d-4aa9a74a-acaeafa9.mp3],CardType::Sentence
 P.c[QuBNUd,Må jeg se dit kørekort?,Can I see your driving license?,[ 102 11 54 89 1898 ], [sound:googletts-70ed8672-18160c05-c1a926ed-351a358b-db313278.mp3],CardType::Sentence
@@ -3825,7 +3825,7 @@ I$?>oWqgw`,Han efterlod en formue til sin søn.,He left his son a fortune.,[ 23 
 n6#fcnA3N4,Der er intet at undskylde.,There is nothing to apologize for.,[ 28 1 162 3 2001 ], [sound:googletts-ef84423e-13512386-c59eaee2-1cb382c7-aca0b67a.mp3],CardType::Sentence
 gu*(-8[[:d,Toget var forsinket her til morgen.,The train was late this morning.,[ 762 18 2174 50 8 169 ], [sound:googletts-01b90ae2-eef5f830-449e35e0-cde60303-14d1f96a.mp3],CardType::Sentence
 D$)w=b.%n+,Vejret i New York er om sommeren varmt og fugtigt.,New York weather is hot and humid in the summer.,[ 703 4 290 785 1 22 2039 367 16 2151 ], [sound:googletts-171d8430-0b0f090d-390d9b12-26823e8e-dde17197.mp3],CardType::Sentence
-k6vdvl`*uF,Hvorfor er du taget til Tokyo?,Why did you go to Tokyo?,[ 333 1 7 328 8 2392 ], [sound:googletts-4f94cee5-9bd0a639-77d58606-46be1182-55835b14.mp3],CardType::Sentence
+k6vdvl`*uF,Hvorfor er du taget til Tokyo?,Why have you gone to Tokyo?,[ 333 1 7 328 8 2392 ], [sound:googletts-4f94cee5-9bd0a639-77d58606-46be1182-55835b14.mp3],CardType::Sentence
 q`tNPyU5E-,Hun oversatte brevet fra japansk til fransk.,She translated the letter from Japanese into French.,[ 39 710 2560 36 708 8 100 ], [sound:googletts-a13fee31-2ba21c8c-7f1c5be5-d6e3b9eb-f71a77c8.mp3],CardType::Sentence
 Qb(_$+C;!$,Hans hud var varm.,His skin was warm.,[ 72 1190 18 1410 ], [sound:googletts-fed59e39-2c53e3d0-b45e98ff-aea61380-bc969d57.mp3],CardType::Sentence
 QcAkw?dU_<,Denne fødevare lugter råddent.,This food smells rotten.,[ 52 2149 1364 1666 ], [sound:googletts-f4f39b50-cf99ce08-c6c0ca69-e8216cee-0a8b6e84.mp3],CardType::Sentence
@@ -3987,7 +3987,7 @@ ui.^z]%3<P,Jeg fortryder at have sagt det.,I regret having said so.,[ 11 2306 3 
 d.W&$ozAN.,Hvor dyb er søen?,How deep is the lake?,[ 93 827 1 2017 ], [sound:googletts-c4128cf2-6a2320c5-c9784250-432ba690-0a4203ed.mp3],CardType::Sentence
 zz-bB7jY?g,Hvor længe vil dette kolde vejr fortsætte?,How long will this cold weather continue?,[ 93 264 20 63 1179 1180 2182 ], [sound:googletts-37524782-0d4bd6f6-0e0aa42f-029de883-330977ec.mp3],CardType::Sentence
 v3g;v`cSA2,Han brød sit løfte.,He broke his promise.,[ 23 272 108 1968 ], [sound:googletts-25fd5ec2-bbc2fb59-f30998cc-28339462-ab7a656d.mp3],CardType::Sentence
-lql-+OJ7#q,Bliv her hos os.,Stay here with us.,[ 1607 50 1267 73 ], [sound:googletts-5a907727-bf4a7a4e-39cd9737-17f514f0-619e8a07.mp3],CardType::Sentence
+lql-+OJ7#q,Bliv her hos os.,Stay here near us.,[ 1607 50 1267 73 ], [sound:googletts-5a907727-bf4a7a4e-39cd9737-17f514f0-619e8a07.mp3],CardType::Sentence
 zc::=6g-<[,Den japanske regering har truffet en vigtig beslutning.,The Japanese government made an important decision.,[ 24 470 1512 6 2450 2 1038 1005 ], [sound:googletts-3ce61742-f6bbe5d0-2798e7b8-965c6226-7f5b16e0.mp3],CardType::Sentence
 wRYpq$KH,Jeg var nødt til at udskyde hotelreservationerne i Rom tre dage.,I had to put back the hotel reservations for Rome by three days.,[ 11 18 226 8 3 1505 2626 4 1322 103 292 ], [sound:googletts-2f780797-f0e56251-6241a1a2-f5db458c-3fa00ead.mp3],CardType::Sentence
 q:~;D&G@b>,Du ser dum ud.,You look stupid.,[ 7 59 1877 58 ], [sound:googletts-41d302c0-a8ee2c20-e4d2ee0e-75b86b57-5cfd9d5c.mp3],CardType::Sentence
@@ -4086,7 +4086,7 @@ iCFEw@]m]2,Det er et løfte.,That's a promise.,[ 12 1 15 1968 ], [sound:googlett
 gT@v%.6+W@,Taler du kinesisk?,Do you speak Chinese?,[ 49 7 1682 ], [sound:googletts-b1e32499-4ec618de-0034539e-29466f44-0c8fdcec.mp3],CardType::Sentence
 MUIM.SE=WD,Hvor har han lært italiensk?,Where has he learned Italian?,[ 93 6 23 548 2466 ], [sound:googletts-33625cc9-3c737469-fea637a7-683b1580-794542af.mp3],CardType::Sentence
 s9r6nw-OmY,Ikke alt på internettet kan findes gennem Google.,Not everything on the web can be found through Google.,[ 5 118 9 2717 13 556 461 1595 ], [sound:googletts-f43375e0-8d2d8df8-02052a94-1a5bfb49-97aec4e4.mp3],CardType::Sentence
-K=jU;qR=eh,Han var tit oppe til sent om natten.,He would often sit up until late at night.,[ 23 18 246 2496 8 244 22 1618 ], [sound:googletts-68ba4cf0-4d386cc8-adfda422-fa71dd4a-eab8edb9.mp3],CardType::Sentence
+K=jU;qR=eh,Han var tit oppe til sent om natten.,He was often up until late at night.,[ 23 18 246 2496 8 244 22 1618 ], [sound:googletts-68ba4cf0-4d386cc8-adfda422-fa71dd4a-eab8edb9.mp3],CardType::Sentence
 bXkkyj._N1,Jeg ville hellere sulte ihjel end stjæle.,I would rather starve to death than steal.,[ 11 65 519 2326 1453 34 1204 ], [sound:googletts-eace51cf-6fe15765-194a7d3e-61f356f9-f39ab52b.mp3],CardType::Sentence
 "lXxE=#6w},",Jeg tog en taxa til lufthavnen.,I went to the airport by taxi.,[ 11 55 2 1906 8 1448 ], [sound:googletts-b13f1910-014138b8-143309a6-019222f0-389e016d.mp3],CardType::Sentence
 dkpR+f<M65,Jeg tog en taxi til lufthavnen.,I went to the airport by taxi.,[ 11 55 2 1907 8 1448 ], [sound:googletts-bf3cdf6d-51ac978e-2de0c253-2f49a972-6e55f877.mp3],CardType::Sentence
@@ -4277,7 +4277,7 @@ guu(NiK=wf,Jeg tror Delbert er gal.,I think that Delbert is crazy.,[ 11 74 2062 
 K0Tg}l3$4{,Skriv alfabetet med store bogstaver.,Write the alphabet in capitals.,[ 2208 1391 17 310 2199 ], [sound:googletts-b6a088a0-505d988d-995493b8-e0aebf65-b0836d15.mp3],CardType::Sentence
 BYQSq}6-LM,Jeg synes om din artikel.,I like your article.,[ 11 217 22 30 2725 ], [sound:googletts-8093f175-b9a3fad9-f7046ea9-01216b69-6b592f96.mp3],CardType::Sentence
 "oqzuP|,i&2",Fuglene er så tamme at de vil spise af din hånd.,The birds are so tame they will eat from your hand.,[ 2648 1 21 2089 3 37 20 147 14 30 1792 ], [sound:googletts-3d0b956d-6581cec9-db0abcf7-2caca371-34e50925.mp3],CardType::Sentence
-J)@N0hu^l3,Drengen går med briller.,The boy is wearing glasses.,[ 2275 43 17 1192 ], [sound:googletts-374340b4-0f4696f4-f297891d-2d1174b9-908adeb4.mp3],CardType::Sentence
+J)@N0hu^l3,Drengen går med briller.,The boy has glasses.,[ 2275 43 17 1192 ], [sound:googletts-374340b4-0f4696f4-f297891d-2d1174b9-908adeb4.mp3],CardType::Sentence
 b|g-{?EM:&,Tror du Tom er skyldig?,Do you think Tom is guilty?,[ 74 7 80 1 2706 ], [sound:googletts-fd22ac97-ac4f6525-a1ba5fb0-22645613-e9523a72.mp3],CardType::Sentence
 dMU6xztl)),Min kone gøs ved synet af en enøjet kat.,My wife shuddered at the sight of a one-eyed cat.,[ 25 148 2256 26 1412 14 2 2257 117 ], [sound:googletts-19d90516-b4aed90b-d6edcd96-62d962b2-34c440d9.mp3],CardType::Sentence
 H#@tL6c>~(,Gå væk herfra.,Get out of here.,[ 77 425 2171 ], [sound:googletts-07a329a7-3bf3aac9-377c35cf-dfc589c5-79e9c577.mp3],CardType::Sentence
@@ -4555,7 +4555,7 @@ H)piV#WITj,"Hvis du konverterer 48 timer til minutter, hvor mange minutter blive
 CoMc%%Ix}U,Det var stadig virkelig varmt selvom solen allerede stod ret lavt.,"It was still really hot, even though the sun had already gotten quite low.",[ 12 18 180 208 367 999 1811 141 275 600 3000+ ], [sound:googletts-f71527f5-800011bf-5bda301f-fa365760-b163c0cc.mp3],CardType::Sentence
 "fyL*_v,rnA","Tranen, i modsætning til hunden, har aldrig drømt om at flyve.","The crane, unlike the dog, has never dreamed of flying.",[ 3000+ 4 1631 8 592 6 61 939 22 3 1289 ], [sound:googletts-deaabecf-da2f91f6-272fd86b-59ba37d6-53509726.mp3],CardType::Sentence
 w7GSR)P(x8,Af de tre kandidater mener jeg at hr. Smith er den bedste.,"Of the three candidates, I think Mr Smith is the best.",[ 14 37 103 2263 760 11 3 3000+ 1338 1 24 ], [sound:googletts-b4602a89-6b2a1d20-d0440124-73b88db7-b9372dab.mp3],CardType::Sentence
-J}c=g>|K5R,Broen mellem Danmark og Sverige er næsten fem engelske mil lang.,The bridge between Denmark and Sweden is almost five miles long.,[ 3000+ 263 904 16 1636 1 133 173 323 761 271 ], [sound:googletts-d4c36fac-21e7a70b-98d3dc76-4a08220b-dbc00679.mp3],CardType::Sentence
+J}c=g>|K5R,Broen mellem Danmark og Sverige er næsten fem engelske mil lang.,The bridge between Denmark and Sweden is almost five English miles long.,[ 3000+ 263 904 16 1636 1 133 173 323 761 271 ], [sound:googletts-d4c36fac-21e7a70b-98d3dc76-4a08220b-dbc00679.mp3],CardType::Sentence
 k~awIEZg`9,Hans hus ligger på en bakkeskråning og har en fantastisk udsigt.,His house stands on the hill-side and commands a splendid view.,[ 72 214 156 9 2 2461 16 6 2 1520 3000+ ], [sound:googletts-166aa0d0-cbfa490c-024119d5-11555410-e3b1de82.mp3],CardType::Sentence
 "h<7_$,;l<Q",Tre hundrede papkasser fyldt med gammelt tøj stod parat til at blive sendt til katastrofeområdet.,There were three hundred cardboard boxes filled with old clothes ready to be sent to the disaster area.,[ 103 358 3000+ 808 17 666 365 275 1801 8 3 ], [sound:googletts-2029aa04-06656b62-a63f43ac-2bf6908a-2e75142c.mp3],CardType::Sentence
 AU~J&Z?Rw0,Brandvæsenet var på stedet inden for fem minutter efter modtagelsen af opkaldet.,The fire brigade was on the scene within five minutes of receiving the call.,[ 3000+ 18 9 699 613 10 173 350 105 2370 14 ], [sound:googletts-5404e6df-5ae5bf47-4657d204-dde84b97-eaf051eb.mp3],CardType::Sentence
@@ -4847,7 +4847,7 @@ do[aGCwejx,Mor købte en smuk kjole til mig i søndags.,Mother bought me a beaut
 G-q.sM!;Mj,Det er ikke et svin; det er en abe.,It's not a pig; it's a monkey.,[ 12 1 5 15 3000+ 12 1 2 1616 ], [sound:googletts-84797165-68055152-1ce36ac6-ff6e4558-2d34edc3.mp3],CardType::Sentence
 "uJ<,/8qr>a",Han har aldrig fortalt hende hvor han skjulte diamanterne.,He never told her where he hid the diamonds.,[ 23 6 61 637 91 93 23 715 3000+ ], [sound:googletts-c864f7bb-1f985bab-7df3704e-731d73fd-032fa4ae.mp3],CardType::Sentence
 B]r@)mD~I],Vi kunne ikke tage derhen på grund af regnen.,We could not go there because of the rain.,[ 46 42 5 101 1071 9 334 14 3000+ ], [sound:googletts-b048c423-6093d48e-4887c0cd-cd6c47af-b1cafd4e.mp3],CardType::Sentence
-K%Pm.Ws59[,Tom er ligeglad med hvad folk siger om Maria.,Tom doesn't mind what people say about Mary.,[ 80 1 3000+ 17 38 398 132 22 918 ], [sound:googletts-c5c07038-e87c2ec3-73debdd9-60cabd1a-8558f7d0.mp3],CardType::Sentence
+K%Pm.Ws59[,Tom er ligeglad med hvad folk siger om Mary.,Tom doesn't mind what people say about Mary.,[ 80 1 3000+ 17 38 398 132 22 918 ], [sound:googletts-c5c07038-e87c2ec3-73debdd9-60cabd1a-8558f7d0.mp3],CardType::Sentence
 u@MQ@QlTbC,John skriver til sin forældre en gang om måneden.,John writes to his parents once a month.,[ 667 260 8 32 428 2 113 22 3000+ ], [sound:googletts-9061af2f-77faafe5-fb47eae9-a734175f-f83506dd.mp3],CardType::Sentence
 rkd$WT8g5V,Lad os sætte os ned og snakke om det.,Let's get together and talk it over.,[ 3000+ 73 373 73 159 16 776 22 12 ], [sound:googletts-93ba7fea-b0b474a1-59c57375-b84c7e6b-f05bd690.mp3],CardType::Sentence
 J9hYmjUf:$,Jeg har boet mere end en måned i Nagoya.,I lived in Nagoya for over a month.,[ 11 6 459 120 34 2 854 4 3000+ ], [sound:googletts-56e282ef-cdd9e304-71c8c7fd-014b5362-397516f8.mp3],CardType::Sentence
@@ -5120,7 +5120,7 @@ v!zu.{GwX&,Han taler som om han var en ekspert.,He speaks as if he were an exper
 D*pYitTt1_,Den enes terrorist er den andens frihedskæmper.,One man's terrorist is another man's freedom fighter.,[ 24 2763 2764 1 24 2765 3000+ ], [sound:googletts-c2a5ce45-a124a917-ce783979-277cde3f-08e9c14a.mp3],CardType::Sentence
 eD]Bv7<^?1,Han måler tiden med en clock radio.,He measures the time with a clock radio.,[ 23 2972 645 17 2 2973 3000+ ], [sound:googletts-8f8d5d46-0dfaec86-f66eb69d-ca001f53-f9f4dd03.mp3],CardType::Sentence
 GCb%o9Y8an,Sammenlignet med kineserne er japanerne dårlige lingvister.,"Compared with the Chinese, the Japanese are poor linguists.",[ 1263 17 2426 1 2427 476 3000+ ], [sound:googletts-5476f027-6e6d3e74-d75d5f4b-f79ca077-37f53911.mp3],CardType::Sentence
-C@6hrTDq;N,Våben dræber ikke mennesker. Mennesker dræber mennesker.,Guns don't kill people. People kill people.,[ 2946 1608 5 3000+ 194 1608 194 ], [sound:googletts-919c5dc9-5c6eb077-8321ff6e-068a269f-325b9e9d.mp3],CardType::Sentence
+C@6hrTDq;N,Våben dræber ikke mennesker. Mennesker dræber mennesker.,Weapons don't kill people. People kill people.,[ 2946 1608 5 3000+ 194 1608 194 ], [sound:googletts-919c5dc9-5c6eb077-8321ff6e-068a269f-325b9e9d.mp3],CardType::Sentence
 KtYaT3iT[,Museet har en udstilling af gamle våben.,The museum has an exhibit of ancient weapons.,[ 3000+ 6 2 2878 14 176 2946 ], [sound:googletts-3261e187-969bbc64-1397391b-2287ca7b-19f10b3f.mp3],CardType::Sentence
 F%$DHE_W?E,Klaveret stemte ikke; det lød utroligt dårligt.,The piano was out of tune; it sounded very bad.,[ 790 2030 3000+ 12 783 1300 867 ], [sound:googletts-3503a27f-cf6d8f3a-c4cec632-f55f8874-dc0281b5.mp3],CardType::Sentence
 isR|z65;5[,Den menneskelige hjerne vejer omtrent tre pund.,The human brain weighs about three pounds.,[ 24 1635 1312 1091 1544 103 3000+ ], [sound:googletts-63294101-755c9c2c-26ee8eb6-5e0017ca-0eb2777e.mp3],CardType::Sentence
@@ -5298,7 +5298,7 @@ rAIJpf:O0b,Han glemmer tit hvad han har lovet.,He will often forget his promise.
 QWI%r~1XCR,Til sidst valgte hun en anden killing.,"Finally, she chose another kitten.",[ 8 531 657 39 2 144 3000+ ], [sound:googletts-51806aa7-c899be4a-c7816f7a-5f242115-ca8e7fba.mp3],CardType::Sentence
 j4ShvWx}vB,Luk vinduet før du går i seng.,Close the window before going to bed.,[ 3000+ 570 179 7 43 4 576 ], [sound:googletts-d2768ad0-84bf23e1-c16c94c2-a1227ccf-e1603c37.mp3],CardType::Sentence
 zD{{w*V%t&,Den anden verdenskrig brød ud i 1939.,The Second World War broke out in 1939.,[ 24 144 864 272 58 4 3000+ ], [sound:googletts-74542060-8bcf690f-7882fce1-fe5b9b00-7f7df6bc.mp3],CardType::Sentence
-b-i3|yOxs>,Hun efterlod sin paraply i en bus.,She left her umbrella in the bus.,[ 39 714 32 553 4 2 3000+ ], [sound:googletts-cdddcdf1-719867a7-1385ea6c-1a71a17a-f9caadbc.mp3],CardType::Sentence
+b-i3|yOxs>,Hun efterlod sin paraply i en bus.,She left her umbrella in a bus.,[ 39 714 32 553 4 2 3000+ ], [sound:googletts-cdddcdf1-719867a7-1385ea6c-1a71a17a-f9caadbc.mp3],CardType::Sentence
 I-*^4.s=d&,Tom brækkede døren op med et koben.,Tom forced open the door with a crowbar.,[ 80 847 302 68 17 15 3000+ ], [sound:googletts-fbd9a9d8-98f0bddb-629dbfd5-48110c39-4119c68f.mp3],CardType::Sentence
 v#]Mj.Uuuk,Han efterlod sin paraply i en bus.,He left his umbrella in the bus.,[ 23 714 32 553 4 2 3000+ ], [sound:googletts-6faf4dc5-e08cf7fb-a612c5e7-e5c1a1a7-e74cea98.mp3],CardType::Sentence
 gU?mqcF|Aw,Hvad tid ankommer vores tog til Hakata?,What time is our train arriving at Hakata?,[ 38 153 937 130 55 8 3000+ ], [sound:googletts-e8592d3c-b7947e1e-57a499a7-a3341258-427da763.mp3],CardType::Sentence
@@ -5311,7 +5311,7 @@ eJJ#V:QY[b,Han gemte sig bag en stor klippe.,He hid himself behind a large rock.
 xk|jjc.[:O,Det er alt for varmt indenfor ...,It's way too hot inside...,[ 12 1 118 10 367 729 3000+ ], [sound:googletts-917c504e-a5213128-bb5b7775-cdc46e0b-7756d428.mp3],CardType::Sentence
 GY0u8@&hy#,Tom var tolv år da Berlinmuren faldt.,Tom was twelve when the Berlin Wall fell.,[ 80 18 682 92 95 3000+ 250 ], [sound:googletts-20ea03f9-506e6098-b1daf09f-e6f9ffb8-4f4d4706.mp3],CardType::Sentence
 "scAt3Oa[,<",Den sø ser ud som et ocean.,That lake looks like an ocean.,[ 24 1012 59 58 27 15 3000+ ], [sound:googletts-2b813cb6-98615c0e-ee83c1d6-37f61b1d-8dcc6583.mp3],CardType::Sentence
-DAc?@st9lt,Jeg er overhovedet ikke interesseret i fysik.,I'm not in the least interested in physics.,[ 11 1 609 5 550 4 3000+ ], [sound:googletts-bb48c64f-49719175-71a59f15-6eab20b7-604f6b06.mp3],CardType::Sentence
+DAc?@st9lt,Jeg er overhovedet ikke interesseret i fysik.,I'm completely not interested in physics.,[ 11 1 609 5 550 4 3000+ ], [sound:googletts-bb48c64f-49719175-71a59f15-6eab20b7-604f6b06.mp3],CardType::Sentence
 nGSJJ4^Qq?,Der er ikke mere kød i køleskabet.,There is no meat left in the fridge.,[ 28 1 5 120 1019 4 3000+ ], [sound:googletts-2c36559a-dff40dc0-7e9eb4f0-cf9f118d-1c4aeb16.mp3],CardType::Sentence
 ~MtrZl$U;,Tom lever fra hånden og i munden.,Tom lives from hand to mouth.,[ 80 330 36 711 16 4 3000+ ], [sound:googletts-f03958a5-1d392a19-9229fa4f-916e1a27-1c61e1e6.mp3],CardType::Sentence
 x3k(p@_y~f,Der må være en løsning på problemet.,There must be some solution to the problem.,[ 28 102 40 2 993 9 3000+ ], [sound:googletts-3776da8e-1e16a4e3-b093f65b-ca232249-1bf6f5c6.mp3],CardType::Sentence
@@ -5349,7 +5349,7 @@ LF8(PaMx77,På det tidspunkt var jeg stadig vågen.,"At that time, I was still a
 Qz#Qv6zaP1,Hun har en kat. Katten er hvid.,She has a cat. The cat is white.,[ 39 6 2 3000+ 429 1 405 ], [sound:googletts-486a7f93-f7b2a6d8-c1477806-22d02cef-f7bce3e9.mp3],CardType::Sentence
 M9HE46Uncx,"Hvad mig angår, så er jeg tilfreds.","As for me, I am satisfied.",[ 38 19 3000+ 21 1 11 792 ], [sound:googletts-bc7a2c24-1c417ee5-379620d4-fb7f4478-f3b2eafc.mp3],CardType::Sentence
 "qgCwc,MNB#",Jeg oversatte digtet så godt jeg kunne.,I translated the poem the best I could.,[ 11 710 3000+ 21 78 11 42 ], [sound:googletts-0f468d01-78958f08-885ed255-0e0b3d09-daa55509.mp3],CardType::Sentence
-qV7_zfL7ov,Tom talte om Mary bag hendes ryg.,Tom talked about Mary behind her back.,[ 80 222 22 75 372 97 3000+ ], [sound:googletts-ae4dcec5-6a8c02af-ec42a650-72725a49-2e41fe9f.mp3],CardType::Sentence
+qV7_zfL7ov,Tom talte om Mary bag hendes ryg.,Tom spoke about Mary behind her back.,[ 80 222 22 75 372 97 3000+ ], [sound:googletts-ae4dcec5-6a8c02af-ec42a650-72725a49-2e41fe9f.mp3],CardType::Sentence
 "yilb#cfE,;",Jeg gjorde det på den gammeldags måde.,I did it the old fashioned way.,[ 11 112 12 9 24 3000+ 698 ], [sound:googletts-f9b350c6-cb614657-ac590ad2-4bc70ed1-0bcaee10.mp3],CardType::Sentence
 sx]I&awML6,Min søster spiller hver dag på klaver.,My sister plays piano every day.,[ 25 431 215 88 87 9 3000+ ], [sound:googletts-1d83ae85-cf48d91b-99c4f505-be2cc073-e868c64b.mp3],CardType::Sentence
 FuX6I5DX1h,Tom skulle aldrig have spist de østers.,Tom never should have eaten those oysters.,[ 80 125 61 53 489 37 3000+ ], [sound:googletts-816a59ab-63e924e9-28593f44-3bd64d7d-43d9b897.mp3],CardType::Sentence
@@ -6144,7 +6144,7 @@ I#=.HbC:Rq,Læreren sagde at vi skulle lære alle disse udtryk udenad.,The teach
 s@kZz8U-S_,Undskyld jeg råbte ad dig.,I'm sorry I yelled at you.,[ 3000+ 11 1036 321 31 ], [sound:googletts-3c2f801c-b1b670bd-37148a21-854b26b6-d92e1bd2.mp3],CardType::Sentence
 CM4sY^v/>B,Børst dine tænder hver dag.,Brush your teeth every day.,[ 3000+ 99 1117 88 87 ], [sound:googletts-6a2daeed-f763ec4f-26eee4b4-f5a5d0a8-f77149e5.mp3],CardType::Sentence
 u;=[u>l6p],Emily stillede mig et spørgsmål.,Emily asked me a question.,[ 3000+ 831 19 15 516 ], [sound:googletts-7380c26d-28c8d087-8f7e92bf-7b376328-871babc7.mp3],CardType::Sentence
-"plV6Z,^pVv",Drik ikke så mange øl.,Go easy on the beer!,[ 3000+ 5 21 51 1299 ], [sound:googletts-341a5e6e-e1d2738f-c8ed25cc-5cd9d91b-1c15bff3.mp3],CardType::Sentence
+"plV6Z,^pVv",Drik ikke så mange øl.,Don't drink so many beers.,[ 3000+ 5 21 51 1299 ], [sound:googletts-341a5e6e-e1d2738f-c8ed25cc-5cd9d91b-1c15bff3.mp3],CardType::Sentence
 N<q;|;{l)w,Tom sidder fast i fortiden.,Tom is stuck in the past.,[ 80 393 894 4 3000+ ], [sound:googletts-d7f51b28-72312eff-360eb422-315d95f2-a2345b81.mp3],CardType::Sentence
 F3xkP=n5sM,Vi tilføjer eksempler på berberisk.,We are adding examples in Berber.,[ 46 394 921 9 3000+ ], [sound:googletts-3399e876-821a3173-86b74964-474ed2bb-e7a58b01.mp3],CardType::Sentence
 N)5B&:y8f?,Vi tilføjer eksempler på berbisk.,We are adding examples in Berber.,[ 46 394 921 9 3000+ ], [sound:googletts-7cba1515-ee3fbb93-90d07d1e-3c5d05e5-bdb70318.mp3],CardType::Sentence
@@ -6774,7 +6774,7 @@ uxE^(Y~u!C,Man kan ikke stoppe tandpasta tilbage i tuben.,You can't put toothpas
 Bb.0<S2|Ue,Katten sover på stolen.,The cat is sleeping on the chair.,[ 429 389 9 3000+ ], [sound:googletts-1936f05a-28226409-f40717c7-afe71163-15f7176e.mp3],CardType::Sentence
 sGgF2OC)a],"April 2012's Ubuntu-version har fået tilnavnet ""Præcist Skældyr"".","The Ubuntu version of April 2012 has been nicknamed ""Precise Pangolin"".",[ 3000+ 3000+ 3000+ 6 539 3000+ 3000+ 3000+ ], [sound:googletts-6023c321-7ecc8464-6eb8503e-05fd12c3-ed3ab629.mp3],CardType::Sentence
 oqq^{?]8yr,Tom er måske okay.,Tom might be all right.,[ 80 1 731 3000+ ], [sound:googletts-cf0a0d3b-43df180c-d80f296e-a82feea4-e19c1402.mp3],CardType::Sentence
-wkFwCC7XR9,Set fra rummet ser Jorden ganske lille ud.,"From space, the earth looks quite small.",[ 3000+ 36 3000+ 59 647 662 154 58 ], [sound:googletts-f6b59214-7eca4fe0-a4d7ae46-8a1dfdb8-89264106.mp3],CardType::Sentence
+wkFwCC7XR9,Set fra rummet ser Jorden ganske lille ud.,"Seen from space, the earth looks quite small.",[ 3000+ 36 3000+ 59 647 662 154 58 ], [sound:googletts-f6b59214-7eca4fe0-a4d7ae46-8a1dfdb8-89264106.mp3],CardType::Sentence
 k}X;rE!<1$,Sikke en smuk pige!,What a pretty girl!,[ 3000+ 2 322 481 ], [sound:googletts-9b88288e-f9939907-2cfb8e7b-03562232-6a691204.mp3],CardType::Sentence
 ywb*w<^S-y,Sælger du franske aviser?,Do you sell French newspapers?,[ 568 7 230 3000+ ], [sound:googletts-29a2d311-2c5b4ccc-bab14587-704d9a4a-ea689611.mp3],CardType::Sentence
 y|oj.*dqyk,Sælger I franske aviser?,Do you sell French newspapers?,[ 568 4 230 3000+ ], [sound:googletts-2ab92359-22832c99-a3397b13-0b8be557-9f3ee61d.mp3],CardType::Sentence
@@ -7462,7 +7462,7 @@ s@`$e]c8d#,Tom ventede utålmodigt.,Tom waited impatiently.,[ 80 403 3000+ ], [s
 vx>m:.DR&@,Killingen vil sove.,The kitten wants to sleep.,[ 3000+ 20 442 ], [sound:googletts-884062e1-edfda8eb-50709386-22b6f040-17a00128.mp3],CardType::Sentence
 QlE.2G-dJ?,Del og hersk.,Divide and conquer.,[ 444 16 3000+ ], [sound:googletts-67cdc9bf-29593902-a322feb0-abd6502b-f1cd8b78.mp3],CardType::Sentence
 cDbE0C_=Co,Vi har lagt julegaverne under træet.,We have put the Christmas presents under the tree.,[ 46 6 688 3000+ 166 3000+ ], [sound:googletts-4b6cb965-ebd9f586-d72a4537-ef93693a-dd5f7242.mp3],CardType::Sentence
-l^2G&L*;8X,Sådan er loven.,This is what the law says.,[ 446 1 3000+ ], [sound:googletts-7c472eed-2502f6c5-70629f16-6da531eb-5575a930.mp3],CardType::Sentence
+l^2G&L*;8X,Sådan er loven.,That's the law.,[ 446 1 3000+ ], [sound:googletts-7c472eed-2502f6c5-70629f16-6da531eb-5575a930.mp3],CardType::Sentence
 "Oh,UperRW-",Bygningen er omgivet af et pigtrådshegn.,The building is surrounded by a barbed wire fence.,[ 3000+ 1 858 14 15 3000+ ], [sound:googletts-28cfcc12-ec7e151c-e76dcbb1-44613d1f-c2462502.mp3],CardType::Sentence
 Jnzd2-&Ou3,Jeg spytter på din mors grav!,I spit on your mother's grave!,[ 11 3000+ 9 30 837 3000+ ], [sound:googletts-86d1d776-27d288a1-33324158-3c763f46-c632687c.mp3],CardType::Sentence
 "K,.<x2Z&Ph",Kig på katten.,Look at the cat.,[ 3000+ 9 429 ], [sound:googletts-79d6a40c-974e5086-cd6ceeec-c08fbe99-d178d449.mp3],CardType::Sentence
